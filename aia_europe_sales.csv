@@ -1,0 +1,1981 @@
+month,region,channel,product_family,policies_sold,gwp_eur,quotes,quotes_bound,policies_lapsed
+2025-01-01,Germany,Retail,Life,207,171535.92,1030,207,8
+2025-01-01,Germany,Retail,Disability,116,69649.33,514,116,4
+2025-01-01,Germany,Retail,Income Protection,123,120733.0,619,123,6
+2025-01-01,Germany,Retail,Critical Illness,73,53809.15,338,73,4
+2025-01-01,Germany,Retail,Health,133,69777.36,598,133,4
+2025-01-01,Germany,Retail,Vitality Bundle,64,82237.8,314,64,2
+2025-01-01,Germany,IFA,Life,99,91500.4,511,99,3
+2025-01-01,Germany,IFA,Disability,53,34121.9,238,53,3
+2025-01-01,Germany,IFA,Income Protection,57,66406.68,278,57,3
+2025-01-01,Germany,IFA,Critical Illness,39,32390.6,174,39,2
+2025-01-01,Germany,IFA,Health,66,35382.17,331,66,3
+2025-01-01,Germany,IFA,Vitality Bundle,25,33110.95,129,25,1
+2025-01-01,Germany,Direct & Banca,Life,50,42912.02,244,50,2
+2025-01-01,Germany,Direct & Banca,Disability,25,15394.07,116,25,1
+2025-01-01,Germany,Direct & Banca,Income Protection,28,29500.8,142,28,1
+2025-01-01,Germany,Direct & Banca,Critical Illness,21,16183.44,99,21,1
+2025-01-01,Germany,Direct & Banca,Health,36,19236.67,181,36,1
+2025-01-01,Germany,Direct & Banca,Vitality Bundle,14,17230.29,71,14,1
+2025-01-01,France,Retail,Life,178,151990.1,823,178,8
+2025-01-01,France,Retail,Disability,98,57582.08,489,98,4
+2025-01-01,France,Retail,Income Protection,104,104578.49,487,104,7
+2025-01-01,France,Retail,Critical Illness,65,48013.44,283,65,3
+2025-01-01,France,Retail,Health,106,52623.71,545,106,6
+2025-01-01,France,Retail,Vitality Bundle,52,65009.99,270,52,2
+2025-01-01,France,IFA,Life,82,77271.52,358,82,5
+2025-01-01,France,IFA,Disability,37,24096.78,170,37,2
+2025-01-01,France,IFA,Income Protection,44,49635.55,226,44,2
+2025-01-01,France,IFA,Critical Illness,29,24883.43,129,29,1
+2025-01-01,France,IFA,Health,52,28264.76,230,52,3
+2025-01-01,France,IFA,Vitality Bundle,21,28973.87,98,21,1
+2025-01-01,France,Direct & Banca,Life,42,36683.89,190,42,2
+2025-01-01,France,Direct & Banca,Disability,20,11592.5,105,20,1
+2025-01-01,France,Direct & Banca,Income Protection,26,27668.2,129,26,1
+2025-01-01,France,Direct & Banca,Critical Illness,17,13497.46,88,17,1
+2025-01-01,France,Direct & Banca,Health,25,13338.78,113,25,1
+2025-01-01,France,Direct & Banca,Vitality Bundle,12,15195.3,60,12,1
+2025-01-01,Spain,Retail,Life,127,107305.66,600,127,8
+2025-01-01,Spain,Retail,Disability,67,38785.71,292,67,4
+2025-01-01,Spain,Retail,Income Protection,79,81513.01,405,79,3
+2025-01-01,Spain,Retail,Critical Illness,50,38335.57,251,50,2
+2025-01-01,Spain,Retail,Health,83,43725.84,417,83,5
+2025-01-01,Spain,Retail,Vitality Bundle,41,49443.05,205,41,2
+2025-01-01,Spain,IFA,Life,55,49777.86,242,55,3
+2025-01-01,Spain,IFA,Disability,32,20970.75,144,32,1
+2025-01-01,Spain,IFA,Income Protection,33,36456.09,159,33,2
+2025-01-01,Spain,IFA,Critical Illness,24,20040.71,105,24,1
+2025-01-01,Spain,IFA,Health,40,22103.01,178,40,2
+2025-01-01,Spain,IFA,Vitality Bundle,16,21660.92,77,16,1
+2025-01-01,Spain,Direct & Banca,Life,29,26297.9,140,29,2
+2025-01-01,Spain,Direct & Banca,Disability,17,9579.24,74,17,1
+2025-01-01,Spain,Direct & Banca,Income Protection,21,22552.23,94,21,1
+2025-01-01,Spain,Direct & Banca,Critical Illness,12,8858.94,58,12,0
+2025-01-01,Spain,Direct & Banca,Health,21,11449.96,105,21,1
+2025-01-01,Spain,Direct & Banca,Vitality Bundle,9,11252.69,39,9,1
+2025-01-01,Netherlands,Retail,Life,73,64897.11,372,73,3
+2025-01-01,Netherlands,Retail,Disability,44,26165.55,208,44,3
+2025-01-01,Netherlands,Retail,Income Protection,41,42585.48,195,41,3
+2025-01-01,Netherlands,Retail,Critical Illness,27,21465.52,140,27,1
+2025-01-01,Netherlands,Retail,Health,52,27513.77,261,52,2
+2025-01-01,Netherlands,Retail,Vitality Bundle,23,28244.53,108,23,1
+2025-01-01,Netherlands,IFA,Life,32,30318.78,152,32,2
+2025-01-01,Netherlands,IFA,Disability,17,11066.59,85,17,1
+2025-01-01,Netherlands,IFA,Income Protection,21,22893.19,104,21,1
+2025-01-01,Netherlands,IFA,Critical Illness,12,9808.51,52,12,1
+2025-01-01,Netherlands,IFA,Health,21,11455.31,105,21,1
+2025-01-01,Netherlands,IFA,Vitality Bundle,11,15536.52,54,11,0
+2025-01-01,Netherlands,Direct & Banca,Life,19,16866.45,89,19,1
+2025-01-01,Netherlands,Direct & Banca,Disability,10,5609.62,45,10,0
+2025-01-01,Netherlands,Direct & Banca,Income Protection,11,11827.31,56,11,0
+2025-01-01,Netherlands,Direct & Banca,Critical Illness,6,4584.27,30,6,0
+2025-01-01,Netherlands,Direct & Banca,Health,13,6559.63,60,13,1
+2025-01-01,Netherlands,Direct & Banca,Vitality Bundle,5,6555.36,22,5,0
+2025-01-01,Italy,Retail,Life,48,40827.42,252,48,3
+2025-01-01,Italy,Retail,Disability,27,15550.79,123,27,1
+2025-01-01,Italy,Retail,Income Protection,30,29384.88,155,30,2
+2025-01-01,Italy,Retail,Critical Illness,21,16032.76,94,21,1
+2025-01-01,Italy,Retail,Health,31,15519.44,153,31,2
+2025-01-01,Italy,Retail,Vitality Bundle,15,19581.73,66,15,1
+2025-01-01,Italy,IFA,Life,21,18947.85,95,21,1
+2025-01-01,Italy,IFA,Disability,12,7738.66,61,12,1
+2025-01-01,Italy,IFA,Income Protection,14,16315.22,63,14,1
+2025-01-01,Italy,IFA,Critical Illness,8,6721.74,39,8,1
+2025-01-01,Italy,IFA,Health,16,9312.73,72,16,1
+2025-01-01,Italy,IFA,Vitality Bundle,7,9152.29,31,7,0
+2025-01-01,Italy,Direct & Banca,Life,11,9872.97,53,11,0
+2025-01-01,Italy,Direct & Banca,Disability,7,4017.5,37,7,0
+2025-01-01,Italy,Direct & Banca,Income Protection,7,7472.7,31,7,0
+2025-01-01,Italy,Direct & Banca,Critical Illness,5,3761.88,22,5,0
+2025-01-01,Italy,Direct & Banca,Health,9,4499.98,39,9,0
+2025-01-01,Italy,Direct & Banca,Vitality Bundle,4,4921.8,21,4,0
+2025-02-01,Germany,Retail,Life,220,187833.78,1027,220,11
+2025-02-01,Germany,Retail,Disability,113,67180.61,564,113,7
+2025-02-01,Germany,Retail,Income Protection,119,127786.27,563,119,7
+2025-02-01,Germany,Retail,Critical Illness,88,68021.16,430,88,3
+2025-02-01,Germany,Retail,Health,152,77697.9,750,152,10
+2025-02-01,Germany,Retail,Vitality Bundle,66,81499.48,326,66,3
+2025-02-01,Germany,IFA,Life,93,85597.18,477,93,4
+2025-02-01,Germany,IFA,Disability,57,36964.43,252,57,3
+2025-02-01,Germany,IFA,Income Protection,57,63710.75,300,57,2
+2025-02-01,Germany,IFA,Critical Illness,37,30612.51,171,37,2
+2025-02-01,Germany,IFA,Health,66,36004.42,316,66,4
+2025-02-01,Germany,IFA,Vitality Bundle,30,39475.55,155,30,2
+2025-02-01,Germany,Direct & Banca,Life,52,44494.39,233,52,3
+2025-02-01,Germany,Direct & Banca,Disability,29,16638.86,146,29,1
+2025-02-01,Germany,Direct & Banca,Income Protection,30,30823.17,134,30,1
+2025-02-01,Germany,Direct & Banca,Critical Illness,20,15397.24,101,20,1
+2025-02-01,Germany,Direct & Banca,Health,35,17734.05,162,35,1
+2025-02-01,Germany,Direct & Banca,Vitality Bundle,16,20704.41,82,16,1
+2025-02-01,France,Retail,Life,162,147394.57,769,162,5
+2025-02-01,France,Retail,Disability,90,54949.67,432,90,6
+2025-02-01,France,Retail,Income Protection,112,120988.33,524,112,8
+2025-02-01,France,Retail,Critical Illness,75,57642.12,343,75,4
+2025-02-01,France,Retail,Health,129,67401.13,571,129,8
+2025-02-01,France,Retail,Vitality Bundle,52,63942.22,260,52,3
+2025-02-01,France,IFA,Life,82,77211.31,381,82,3
+2025-02-01,France,IFA,Disability,39,24318.32,194,39,2
+2025-02-01,France,IFA,Income Protection,49,52536.46,246,49,3
+2025-02-01,France,IFA,Critical Illness,32,25121.02,155,32,2
+2025-02-01,France,IFA,Health,54,29437.33,261,54,4
+2025-02-01,France,IFA,Vitality Bundle,24,33297.76,107,24,1
+2025-02-01,France,Direct & Banca,Life,41,33907.53,201,41,2
+2025-02-01,France,Direct & Banca,Disability,24,14802.06,116,24,1
+2025-02-01,France,Direct & Banca,Income Protection,26,27056.51,131,26,1
+2025-02-01,France,Direct & Banca,Critical Illness,16,11587.29,79,16,1
+2025-02-01,France,Direct & Banca,Health,28,14072.31,134,28,1
+2025-02-01,France,Direct & Banca,Vitality Bundle,13,15605.17,63,13,1
+2025-02-01,Spain,Retail,Life,122,107655.14,624,122,6
+2025-02-01,Spain,Retail,Disability,68,39634.96,343,68,3
+2025-02-01,Spain,Retail,Income Protection,89,90561.95,404,89,6
+2025-02-01,Spain,Retail,Critical Illness,51,37139.47,267,51,3
+2025-02-01,Spain,Retail,Health,104,53268.59,481,104,6
+2025-02-01,Spain,Retail,Vitality Bundle,42,54265.4,184,42,2
+2025-02-01,Spain,IFA,Life,55,49881.58,282,55,3
+2025-02-01,Spain,IFA,Disability,34,21053.78,156,34,2
+2025-02-01,Spain,IFA,Income Protection,36,40475.89,164,36,1
+2025-02-01,Spain,IFA,Critical Illness,26,22332.55,134,26,1
+2025-02-01,Spain,IFA,Health,41,23433.95,180,41,2
+2025-02-01,Spain,IFA,Vitality Bundle,19,24758.93,87,19,1
+2025-02-01,Spain,Direct & Banca,Life,30,26811.18,134,30,2
+2025-02-01,Spain,Direct & Banca,Disability,16,9896.75,72,16,1
+2025-02-01,Spain,Direct & Banca,Income Protection,20,20333.38,95,20,1
+2025-02-01,Spain,Direct & Banca,Critical Illness,14,10982.96,72,14,1
+2025-02-01,Spain,Direct & Banca,Health,23,12353.13,105,23,1
+2025-02-01,Spain,Direct & Banca,Vitality Bundle,10,13186.5,50,10,1
+2025-02-01,Netherlands,Retail,Life,76,66010.89,366,76,5
+2025-02-01,Netherlands,Retail,Disability,40,24430.04,179,40,1
+2025-02-01,Netherlands,Retail,Income Protection,51,51184.51,245,51,3
+2025-02-01,Netherlands,Retail,Critical Illness,30,21725.44,134,30,1
+2025-02-01,Netherlands,Retail,Health,50,26774.36,246,50,3
+2025-02-01,Netherlands,Retail,Vitality Bundle,24,29563.44,126,24,2
+2025-02-01,Netherlands,IFA,Life,31,29768.62,148,31,2
+2025-02-01,Netherlands,IFA,Disability,20,12929.94,95,20,1
+2025-02-01,Netherlands,IFA,Income Protection,20,21628.61,92,20,1
+2025-02-01,Netherlands,IFA,Critical Illness,14,11460.47,66,14,1
+2025-02-01,Netherlands,IFA,Health,25,13802.43,115,25,1
+2025-02-01,Netherlands,IFA,Vitality Bundle,10,13091.79,51,10,0
+2025-02-01,Netherlands,Direct & Banca,Life,18,16070.59,91,18,1
+2025-02-01,Netherlands,Direct & Banca,Disability,10,6032.51,44,10,1
+2025-02-01,Netherlands,Direct & Banca,Income Protection,11,10877.4,56,11,0
+2025-02-01,Netherlands,Direct & Banca,Critical Illness,7,5061.53,33,7,0
+2025-02-01,Netherlands,Direct & Banca,Health,14,7318.85,64,14,0
+2025-02-01,Netherlands,Direct & Banca,Vitality Bundle,6,7553.1,27,6,0
+2025-02-01,Italy,Retail,Life,50,43241.04,253,50,2
+2025-02-01,Italy,Retail,Disability,30,17660.58,135,30,1
+2025-02-01,Italy,Retail,Income Protection,29,30256.65,151,29,1
+2025-02-01,Italy,Retail,Critical Illness,20,14901.83,87,20,1
+2025-02-01,Italy,Retail,Health,37,19444.56,167,37,1
+2025-02-01,Italy,Retail,Vitality Bundle,15,18806.47,72,15,1
+2025-02-01,Italy,IFA,Life,25,23032.84,116,25,1
+2025-02-01,Italy,IFA,Disability,13,8654.37,66,13,0
+2025-02-01,Italy,IFA,Income Protection,15,16113.77,76,15,0
+2025-02-01,Italy,IFA,Critical Illness,8,6533.9,37,8,0
+2025-02-01,Italy,IFA,Health,15,8598.34,69,15,1
+2025-02-01,Italy,IFA,Vitality Bundle,7,9929.4,32,7,0
+2025-02-01,Italy,Direct & Banca,Life,13,11800.48,63,13,1
+2025-02-01,Italy,Direct & Banca,Disability,7,4298.67,31,7,0
+2025-02-01,Italy,Direct & Banca,Income Protection,7,7071.29,32,7,0
+2025-02-01,Italy,Direct & Banca,Critical Illness,5,3657.25,23,5,0
+2025-02-01,Italy,Direct & Banca,Health,9,4680.22,43,9,0
+2025-02-01,Italy,Direct & Banca,Vitality Bundle,3,3754.31,15,3,0
+2025-03-01,Germany,Retail,Life,194,176576.14,868,194,10
+2025-03-01,Germany,Retail,Disability,127,78673.3,586,127,5
+2025-03-01,Germany,Retail,Income Protection,122,128880.27,584,122,7
+2025-03-01,Germany,Retail,Critical Illness,92,67692.97,431,92,5
+2025-03-01,Germany,Retail,Health,148,73814.2,726,148,6
+2025-03-01,Germany,Retail,Vitality Bundle,66,86134.91,325,66,4
+2025-03-01,Germany,IFA,Life,91,89310.17,409,91,5
+2025-03-01,Germany,IFA,Disability,52,32519.81,256,52,4
+2025-03-01,Germany,IFA,Income Protection,59,65727.4,257,59,3
+2025-03-01,Germany,IFA,Critical Illness,38,30919.82,192,38,2
+2025-03-01,Germany,IFA,Health,70,39805.01,318,70,3
+2025-03-01,Germany,IFA,Vitality Bundle,29,41150.93,140,29,2
+2025-03-01,Germany,Direct & Banca,Life,47,42824.7,219,47,2
+2025-03-01,Germany,Direct & Banca,Disability,26,15417.99,123,26,1
+2025-03-01,Germany,Direct & Banca,Income Protection,35,37538.61,168,35,1
+2025-03-01,Germany,Direct & Banca,Critical Illness,22,16717.28,101,22,1
+2025-03-01,Germany,Direct & Banca,Health,34,18271.79,148,34,1
+2025-03-01,Germany,Direct & Banca,Vitality Bundle,15,18679.98,66,15,1
+2025-03-01,France,Retail,Life,187,168612.35,930,187,12
+2025-03-01,France,Retail,Disability,94,57868.34,447,94,6
+2025-03-01,France,Retail,Income Protection,105,105971.38,492,105,7
+2025-03-01,France,Retail,Critical Illness,69,50597.23,326,69,3
+2025-03-01,France,Retail,Health,123,64237.78,591,123,5
+2025-03-01,France,Retail,Vitality Bundle,49,62959.36,230,49,2
+2025-03-01,France,IFA,Life,82,73531.13,373,82,5
+2025-03-01,France,IFA,Disability,46,28977.28,212,46,3
+2025-03-01,France,IFA,Income Protection,54,60041.54,282,54,3
+2025-03-01,France,IFA,Critical Illness,32,27236.64,142,32,2
+2025-03-01,France,IFA,Health,55,30754.96,251,55,3
+2025-03-01,France,IFA,Vitality Bundle,24,31530.37,115,24,2
+2025-03-01,France,Direct & Banca,Life,40,35470.61,185,40,3
+2025-03-01,France,Direct & Banca,Disability,25,15280.03,122,25,1
+2025-03-01,France,Direct & Banca,Income Protection,28,29588.11,125,28,1
+2025-03-01,France,Direct & Banca,Critical Illness,15,11549.52,66,15,1
+2025-03-01,France,Direct & Banca,Health,31,16013.56,160,31,2
+2025-03-01,France,Direct & Banca,Vitality Bundle,13,16287.75,60,13,1
+2025-03-01,Spain,Retail,Life,123,110179.03,610,123,6
+2025-03-01,Spain,Retail,Disability,69,40836.88,324,69,4
+2025-03-01,Spain,Retail,Income Protection,80,78930.7,356,80,4
+2025-03-01,Spain,Retail,Critical Illness,51,40360.13,261,51,2
+2025-03-01,Spain,Retail,Health,90,45654.93,473,90,6
+2025-03-01,Spain,Retail,Vitality Bundle,44,56424.67,224,44,2
+2025-03-01,Spain,IFA,Life,59,55921.87,274,59,3
+2025-03-01,Spain,IFA,Disability,32,21094.49,162,32,1
+2025-03-01,Spain,IFA,Income Protection,39,42243.5,183,39,2
+2025-03-01,Spain,IFA,Critical Illness,27,21707.8,118,27,2
+2025-03-01,Spain,IFA,Health,41,23177.41,189,41,2
+2025-03-01,Spain,IFA,Vitality Bundle,17,23379.76,81,17,1
+2025-03-01,Spain,Direct & Banca,Life,31,27776.03,145,31,1
+2025-03-01,Spain,Direct & Banca,Disability,18,10748.39,83,18,1
+2025-03-01,Spain,Direct & Banca,Income Protection,21,22361.82,98,21,1
+2025-03-01,Spain,Direct & Banca,Critical Illness,13,9691.23,63,13,1
+2025-03-01,Spain,Direct & Banca,Health,24,11968.49,119,24,1
+2025-03-01,Spain,Direct & Banca,Vitality Bundle,9,10922.87,43,9,1
+2025-03-01,Netherlands,Retail,Life,77,69759.95,345,77,3
+2025-03-01,Netherlands,Retail,Disability,45,26501.81,202,45,3
+2025-03-01,Netherlands,Retail,Income Protection,47,46547.04,206,47,2
+2025-03-01,Netherlands,Retail,Critical Illness,33,25983.23,151,33,2
+2025-03-01,Netherlands,Retail,Health,58,31078.64,283,58,4
+2025-03-01,Netherlands,Retail,Vitality Bundle,21,26556.77,101,21,1
+2025-03-01,Netherlands,IFA,Life,35,33164.08,157,35,2
+2025-03-01,Netherlands,IFA,Disability,17,10544.07,89,17,1
+2025-03-01,Netherlands,IFA,Income Protection,22,25489.05,111,22,1
+2025-03-01,Netherlands,IFA,Critical Illness,15,12816.04,74,15,1
+2025-03-01,Netherlands,IFA,Health,22,12906.57,109,22,1
+2025-03-01,Netherlands,IFA,Vitality Bundle,9,12721.48,46,9,0
+2025-03-01,Netherlands,Direct & Banca,Life,19,16931.91,83,19,1
+2025-03-01,Netherlands,Direct & Banca,Disability,11,6265.79,53,11,0
+2025-03-01,Netherlands,Direct & Banca,Income Protection,12,12246.43,53,12,0
+2025-03-01,Netherlands,Direct & Banca,Critical Illness,7,5289.88,31,7,0
+2025-03-01,Netherlands,Direct & Banca,Health,12,6355.86,57,12,1
+2025-03-01,Netherlands,Direct & Banca,Vitality Bundle,5,6235.83,25,5,0
+2025-03-01,Italy,Retail,Life,54,46767.26,249,54,3
+2025-03-01,Italy,Retail,Disability,28,15729.28,126,28,1
+2025-03-01,Italy,Retail,Income Protection,30,31099.55,156,30,2
+2025-03-01,Italy,Retail,Critical Illness,19,14029.83,85,19,1
+2025-03-01,Italy,Retail,Health,33,17847.31,174,33,2
+2025-03-01,Italy,Retail,Vitality Bundle,14,16987.31,70,14,1
+2025-03-01,Italy,IFA,Life,24,21481.02,126,24,1
+2025-03-01,Italy,IFA,Disability,12,7511.65,61,12,0
+2025-03-01,Italy,IFA,Income Protection,15,16729.53,68,15,1
+2025-03-01,Italy,IFA,Critical Illness,10,8218.87,51,10,1
+2025-03-01,Italy,IFA,Health,17,9111.24,77,17,1
+2025-03-01,Italy,IFA,Vitality Bundle,7,9485.63,31,7,0
+2025-03-01,Italy,Direct & Banca,Life,12,10337.29,55,12,1
+2025-03-01,Italy,Direct & Banca,Disability,7,3953.85,36,7,0
+2025-03-01,Italy,Direct & Banca,Income Protection,7,7047.79,33,7,0
+2025-03-01,Italy,Direct & Banca,Critical Illness,5,3987.96,24,5,0
+2025-03-01,Italy,Direct & Banca,Health,9,4492.42,41,9,1
+2025-03-01,Italy,Direct & Banca,Vitality Bundle,4,5175.56,18,4,0
+2025-04-01,Germany,Retail,Life,210,177739.58,1032,210,10
+2025-04-01,Germany,Retail,Disability,115,65102.66,555,115,7
+2025-04-01,Germany,Retail,Income Protection,133,132231.5,586,133,4
+2025-04-01,Germany,Retail,Critical Illness,91,66346.78,469,91,5
+2025-04-01,Germany,Retail,Health,158,82623.14,740,158,8
+2025-04-01,Germany,Retail,Vitality Bundle,62,75168.87,304,62,4
+2025-04-01,Germany,IFA,Life,100,97418.59,457,100,7
+2025-04-01,Germany,IFA,Disability,54,33898.33,253,54,2
+2025-04-01,Germany,IFA,Income Protection,63,68148.67,324,63,4
+2025-04-01,Germany,IFA,Critical Illness,37,31167.12,174,37,2
+2025-04-01,Germany,IFA,Health,72,42354.04,323,72,4
+2025-04-01,Germany,IFA,Vitality Bundle,30,38889.98,132,30,2
+2025-04-01,Germany,Direct & Banca,Life,49,41267.61,225,49,2
+2025-04-01,Germany,Direct & Banca,Disability,27,15143.23,120,27,1
+2025-04-01,Germany,Direct & Banca,Income Protection,32,31779.62,149,32,1
+2025-04-01,Germany,Direct & Banca,Critical Illness,21,15505.35,102,21,1
+2025-04-01,Germany,Direct & Banca,Health,35,18603.3,158,35,2
+2025-04-01,Germany,Direct & Banca,Vitality Bundle,14,16850.8,71,14,1
+2025-04-01,France,Retail,Life,180,153031.13,831,180,9
+2025-04-01,France,Retail,Disability,95,54778.6,431,95,3
+2025-04-01,France,Retail,Income Protection,110,110844.18,507,110,5
+2025-04-01,France,Retail,Critical Illness,72,52232.52,350,72,4
+2025-04-01,France,Retail,Health,110,56064.12,554,110,4
+2025-04-01,France,Retail,Vitality Bundle,50,61917.17,263,50,3
+2025-04-01,France,IFA,Life,73,67769.13,335,73,4
+2025-04-01,France,IFA,Disability,46,30208.71,238,46,3
+2025-04-01,France,IFA,Income Protection,46,48707.78,203,46,3
+2025-04-01,France,IFA,Critical Illness,32,26458.39,147,32,1
+2025-04-01,France,IFA,Health,51,27269.26,251,51,3
+2025-04-01,France,IFA,Vitality Bundle,24,33743.57,106,24,1
+2025-04-01,France,Direct & Banca,Life,45,38145.08,211,45,2
+2025-04-01,France,Direct & Banca,Disability,23,13312.54,113,23,1
+2025-04-01,France,Direct & Banca,Income Protection,25,25776.99,128,25,1
+2025-04-01,France,Direct & Banca,Critical Illness,18,13473.95,82,18,1
+2025-04-01,France,Direct & Banca,Health,31,15694.87,158,31,1
+2025-04-01,France,Direct & Banca,Vitality Bundle,13,16806.23,60,13,0
+2025-04-01,Spain,Retail,Life,143,124336.81,649,143,9
+2025-04-01,Spain,Retail,Disability,74,45511.86,348,74,4
+2025-04-01,Spain,Retail,Income Protection,90,96076.57,418,90,3
+2025-04-01,Spain,Retail,Critical Illness,50,37780.39,247,50,2
+2025-04-01,Spain,Retail,Health,87,45273.19,430,87,4
+2025-04-01,Spain,Retail,Vitality Bundle,37,48166.37,192,37,2
+2025-04-01,Spain,IFA,Life,66,62726.81,314,66,3
+2025-04-01,Spain,IFA,Disability,34,22297.02,151,34,2
+2025-04-01,Spain,IFA,Income Protection,42,47430.2,207,42,2
+2025-04-01,Spain,IFA,Critical Illness,23,18051.29,118,23,2
+2025-04-01,Spain,IFA,Health,42,24092.71,200,42,2
+2025-04-01,Spain,IFA,Vitality Bundle,17,22989.61,82,17,1
+2025-04-01,Spain,Direct & Banca,Life,30,25768.14,149,30,1
+2025-04-01,Spain,Direct & Banca,Disability,17,10128.18,77,17,1
+2025-04-01,Spain,Direct & Banca,Income Protection,19,18776.45,88,19,1
+2025-04-01,Spain,Direct & Banca,Critical Illness,14,10806.58,62,14,1
+2025-04-01,Spain,Direct & Banca,Health,22,11534.65,112,22,1
+2025-04-01,Spain,Direct & Banca,Vitality Bundle,11,14135.09,53,11,1
+2025-04-01,Netherlands,Retail,Life,83,70834.99,405,83,5
+2025-04-01,Netherlands,Retail,Disability,45,27001.66,202,45,3
+2025-04-01,Netherlands,Retail,Income Protection,51,52668.64,236,51,2
+2025-04-01,Netherlands,Retail,Critical Illness,30,22486.72,152,30,1
+2025-04-01,Netherlands,Retail,Health,58,30118.59,291,58,2
+2025-04-01,Netherlands,Retail,Vitality Bundle,21,27371.36,108,21,1
+2025-04-01,Netherlands,IFA,Life,37,36099.08,193,37,2
+2025-04-01,Netherlands,IFA,Disability,20,12273.81,98,20,1
+2025-04-01,Netherlands,IFA,Income Protection,24,27421.37,108,24,1
+2025-04-01,Netherlands,IFA,Critical Illness,14,11388.77,64,14,1
+2025-04-01,Netherlands,IFA,Health,24,13188.52,109,24,1
+2025-04-01,Netherlands,IFA,Vitality Bundle,10,13348.72,45,10,0
+2025-04-01,Netherlands,Direct & Banca,Life,20,17170.04,88,20,1
+2025-04-01,Netherlands,Direct & Banca,Disability,10,5771.25,49,10,1
+2025-04-01,Netherlands,Direct & Banca,Income Protection,13,13814.32,59,13,0
+2025-04-01,Netherlands,Direct & Banca,Critical Illness,7,5395.11,31,7,0
+2025-04-01,Netherlands,Direct & Banca,Health,12,6455.84,54,12,0
+2025-04-01,Netherlands,Direct & Banca,Vitality Bundle,6,7388.23,27,6,0
+2025-04-01,Italy,Retail,Life,50,45441.9,251,50,2
+2025-04-01,Italy,Retail,Disability,27,15175.99,141,27,1
+2025-04-01,Italy,Retail,Income Protection,31,33509.02,151,31,1
+2025-04-01,Italy,Retail,Critical Illness,22,17287.1,102,22,1
+2025-04-01,Italy,Retail,Health,33,16794.29,148,33,2
+2025-04-01,Italy,Retail,Vitality Bundle,14,18002.57,67,14,0
+2025-04-01,Italy,IFA,Life,21,19250.0,94,21,1
+2025-04-01,Italy,IFA,Disability,13,8306.6,67,13,1
+2025-04-01,Italy,IFA,Income Protection,14,14869.28,68,14,1
+2025-04-01,Italy,IFA,Critical Illness,9,7099.73,40,9,0
+2025-04-01,Italy,IFA,Health,15,8436.95,75,15,1
+2025-04-01,Italy,IFA,Vitality Bundle,7,9634.96,35,7,0
+2025-04-01,Italy,Direct & Banca,Life,13,10841.33,57,13,0
+2025-04-01,Italy,Direct & Banca,Disability,7,4133.03,30,7,0
+2025-04-01,Italy,Direct & Banca,Income Protection,8,8215.39,37,8,1
+2025-04-01,Italy,Direct & Banca,Critical Illness,5,3616.17,23,5,0
+2025-04-01,Italy,Direct & Banca,Health,9,4740.02,41,9,1
+2025-04-01,Italy,Direct & Banca,Vitality Bundle,4,4810.35,19,4,0
+2025-05-01,Germany,Retail,Life,199,177962.8,954,199,12
+2025-05-01,Germany,Retail,Disability,120,73005.4,623,120,7
+2025-05-01,Germany,Retail,Income Protection,137,138195.27,714,137,5
+2025-05-01,Germany,Retail,Critical Illness,78,61849.02,370,78,5
+2025-05-01,Germany,Retail,Health,151,76583.02,686,151,6
+2025-05-01,Germany,Retail,Vitality Bundle,62,80313.93,276,62,3
+2025-05-01,Germany,IFA,Life,89,82520.72,395,89,5
+2025-05-01,Germany,IFA,Disability,57,35908.69,249,57,3
+2025-05-01,Germany,IFA,Income Protection,62,71895.22,294,62,4
+2025-05-01,Germany,IFA,Critical Illness,40,31449.53,187,40,3
+2025-05-01,Germany,IFA,Health,68,37506.03,352,68,4
+2025-05-01,Germany,IFA,Vitality Bundle,28,38493.41,135,28,2
+2025-05-01,Germany,Direct & Banca,Life,50,41509.24,222,50,2
+2025-05-01,Germany,Direct & Banca,Disability,31,17877.66,135,31,2
+2025-05-01,Germany,Direct & Banca,Income Protection,30,31324.91,147,30,2
+2025-05-01,Germany,Direct & Banca,Critical Illness,21,16682.65,107,21,1
+2025-05-01,Germany,Direct & Banca,Health,38,18840.76,197,38,2
+2025-05-01,Germany,Direct & Banca,Vitality Bundle,15,18678.59,71,15,1
+2025-05-01,France,Retail,Life,181,164537.62,883,181,11
+2025-05-01,France,Retail,Disability,98,57990.34,476,98,5
+2025-05-01,France,Retail,Income Protection,108,106940.0,492,108,5
+2025-05-01,France,Retail,Critical Illness,68,51998.72,339,68,3
+2025-05-01,France,Retail,Health,121,66043.13,601,121,8
+2025-05-01,France,Retail,Vitality Bundle,52,63047.52,232,52,3
+2025-05-01,France,IFA,Life,85,79427.63,439,85,5
+2025-05-01,France,IFA,Disability,46,28782.39,226,46,1
+2025-05-01,France,IFA,Income Protection,52,60108.45,232,52,3
+2025-05-01,France,IFA,Critical Illness,34,28291.48,153,34,2
+2025-05-01,France,IFA,Health,51,27785.16,261,51,3
+2025-05-01,France,IFA,Vitality Bundle,21,28731.18,103,21,1
+2025-05-01,France,Direct & Banca,Life,42,36949.06,217,42,2
+2025-05-01,France,Direct & Banca,Disability,25,15072.83,118,25,2
+2025-05-01,France,Direct & Banca,Income Protection,29,28596.79,127,29,2
+2025-05-01,France,Direct & Banca,Critical Illness,17,13152.7,83,17,1
+2025-05-01,France,Direct & Banca,Health,31,16345.35,157,31,2
+2025-05-01,France,Direct & Banca,Vitality Bundle,12,15741.0,62,12,0
+2025-05-01,Spain,Retail,Life,127,106784.8,626,127,7
+2025-05-01,Spain,Retail,Disability,73,44968.97,323,73,5
+2025-05-01,Spain,Retail,Income Protection,84,87688.51,396,84,3
+2025-05-01,Spain,Retail,Critical Illness,52,39652.31,247,52,2
+2025-05-01,Spain,Retail,Health,104,52209.88,481,104,6
+2025-05-01,Spain,Retail,Vitality Bundle,42,54732.67,198,42,3
+2025-05-01,Spain,IFA,Life,56,50225.93,260,56,3
+2025-05-01,Spain,IFA,Disability,35,22897.37,169,35,2
+2025-05-01,Spain,IFA,Income Protection,40,45061.83,198,40,3
+2025-05-01,Spain,IFA,Critical Illness,24,20299.41,110,24,1
+2025-05-01,Spain,IFA,Health,39,20938.5,188,39,2
+2025-05-01,Spain,IFA,Vitality Bundle,17,23380.34,84,17,1
+2025-05-01,Spain,Direct & Banca,Life,34,30647.18,148,34,1
+2025-05-01,Spain,Direct & Banca,Disability,18,10685.47,89,18,1
+2025-05-01,Spain,Direct & Banca,Income Protection,20,20080.71,103,20,1
+2025-05-01,Spain,Direct & Banca,Critical Illness,13,9993.99,65,13,1
+2025-05-01,Spain,Direct & Banca,Health,21,10731.56,99,21,1
+2025-05-01,Spain,Direct & Banca,Vitality Bundle,10,12597.81,47,10,0
+2025-05-01,Netherlands,Retail,Life,74,61310.21,325,74,4
+2025-05-01,Netherlands,Retail,Disability,46,26366.9,225,46,1
+2025-05-01,Netherlands,Retail,Income Protection,50,53469.05,231,50,2
+2025-05-01,Netherlands,Retail,Critical Illness,31,24377.94,150,31,2
+2025-05-01,Netherlands,Retail,Health,56,29888.35,274,56,3
+2025-05-01,Netherlands,Retail,Vitality Bundle,23,28095.11,108,23,1
+2025-05-01,Netherlands,IFA,Life,35,33755.52,174,35,2
+2025-05-01,Netherlands,IFA,Disability,20,12258.21,87,20,1
+2025-05-01,Netherlands,IFA,Income Protection,24,26268.0,105,24,1
+2025-05-01,Netherlands,IFA,Critical Illness,13,10680.13,62,13,0
+2025-05-01,Netherlands,IFA,Health,22,12148.92,105,22,1
+2025-05-01,Netherlands,IFA,Vitality Bundle,11,14992.01,54,11,1
+2025-05-01,Netherlands,Direct & Banca,Life,17,15515.62,77,17,1
+2025-05-01,Netherlands,Direct & Banca,Disability,10,6093.69,47,10,1
+2025-05-01,Netherlands,Direct & Banca,Income Protection,11,11687.74,54,11,1
+2025-05-01,Netherlands,Direct & Banca,Critical Illness,8,6130.89,36,8,0
+2025-05-01,Netherlands,Direct & Banca,Health,13,6440.01,62,13,1
+2025-05-01,Netherlands,Direct & Banca,Vitality Bundle,6,7768.78,28,6,0
+2025-05-01,Italy,Retail,Life,52,43749.4,242,52,3
+2025-05-01,Italy,Retail,Disability,30,17076.56,138,30,1
+2025-05-01,Italy,Retail,Income Protection,36,35633.49,189,36,2
+2025-05-01,Italy,Retail,Critical Illness,19,14715.08,92,19,1
+2025-05-01,Italy,Retail,Health,39,21036.07,178,39,1
+2025-05-01,Italy,Retail,Vitality Bundle,14,17123.75,69,14,1
+2025-05-01,Italy,IFA,Life,23,21208.3,117,23,2
+2025-05-01,Italy,IFA,Disability,12,7534.98,54,12,1
+2025-05-01,Italy,IFA,Income Protection,15,17008.56,70,15,1
+2025-05-01,Italy,IFA,Critical Illness,9,7430.11,45,9,1
+2025-05-01,Italy,IFA,Health,15,8246.26,76,15,1
+2025-05-01,Italy,IFA,Vitality Bundle,7,9381.58,31,7,0
+2025-05-01,Italy,Direct & Banca,Life,12,10045.24,55,12,1
+2025-05-01,Italy,Direct & Banca,Disability,7,4261.49,31,7,0
+2025-05-01,Italy,Direct & Banca,Income Protection,8,8065.01,37,8,0
+2025-05-01,Italy,Direct & Banca,Critical Illness,5,3707.45,24,5,0
+2025-05-01,Italy,Direct & Banca,Health,9,4882.66,41,9,0
+2025-05-01,Italy,Direct & Banca,Vitality Bundle,4,5083.76,20,4,0
+2025-06-01,Germany,Retail,Life,228,201096.27,1187,228,11
+2025-06-01,Germany,Retail,Disability,130,73636.18,589,130,4
+2025-06-01,Germany,Retail,Income Protection,151,162203.79,732,151,10
+2025-06-01,Germany,Retail,Critical Illness,98,74312.04,495,98,7
+2025-06-01,Germany,Retail,Health,153,80720.76,676,153,5
+2025-06-01,Germany,Retail,Vitality Bundle,69,87245.61,315,69,5
+2025-06-01,Germany,IFA,Life,111,100906.67,493,111,4
+2025-06-01,Germany,IFA,Disability,61,40801.67,296,61,3
+2025-06-01,Germany,IFA,Income Protection,73,84957.95,322,73,5
+2025-06-01,Germany,IFA,Critical Illness,37,30576.0,190,37,3
+2025-06-01,Germany,IFA,Health,68,40056.61,321,68,3
+2025-06-01,Germany,IFA,Vitality Bundle,33,46482.88,158,33,1
+2025-06-01,Germany,Direct & Banca,Life,50,42031.85,240,50,2
+2025-06-01,Germany,Direct & Banca,Disability,28,16910.89,126,28,1
+2025-06-01,Germany,Direct & Banca,Income Protection,38,37869.89,169,38,3
+2025-06-01,Germany,Direct & Banca,Critical Illness,23,17506.71,119,23,1
+2025-06-01,Germany,Direct & Banca,Health,36,18047.23,177,36,1
+2025-06-01,Germany,Direct & Banca,Vitality Bundle,16,19626.81,73,16,1
+2025-06-01,France,Retail,Life,179,159200.95,940,179,10
+2025-06-01,France,Retail,Disability,106,59801.53,544,106,4
+2025-06-01,France,Retail,Income Protection,120,123631.15,531,120,7
+2025-06-01,France,Retail,Critical Illness,72,52626.5,318,72,3
+2025-06-01,France,Retail,Health,133,67217.49,681,133,5
+2025-06-01,France,Retail,Vitality Bundle,59,75126.06,286,59,3
+2025-06-01,France,IFA,Life,83,78279.39,383,83,3
+2025-06-01,France,IFA,Disability,44,28751.01,196,44,1
+2025-06-01,France,IFA,Income Protection,54,61293.61,280,54,3
+2025-06-01,France,IFA,Critical Illness,31,25566.04,147,31,2
+2025-06-01,France,IFA,Health,55,30357.09,261,55,2
+2025-06-01,France,IFA,Vitality Bundle,24,32930.75,124,24,1
+2025-06-01,France,Direct & Banca,Life,47,40699.58,223,47,2
+2025-06-01,France,Direct & Banca,Disability,22,12931.17,99,22,1
+2025-06-01,France,Direct & Banca,Income Protection,29,30815.25,132,29,2
+2025-06-01,France,Direct & Banca,Critical Illness,16,11970.95,83,16,1
+2025-06-01,France,Direct & Banca,Health,34,16918.03,150,34,1
+2025-06-01,France,Direct & Banca,Vitality Bundle,13,16820.58,59,13,1
+2025-06-01,Spain,Retail,Life,150,129460.72,653,150,7
+2025-06-01,Spain,Retail,Disability,86,52803.94,419,86,5
+2025-06-01,Spain,Retail,Income Protection,98,101336.7,453,98,4
+2025-06-01,Spain,Retail,Critical Illness,54,41192.91,256,54,3
+2025-06-01,Spain,Retail,Health,96,47441.34,503,96,4
+2025-06-01,Spain,Retail,Vitality Bundle,45,56952.01,213,45,3
+2025-06-01,Spain,IFA,Life,62,57359.0,308,62,4
+2025-06-01,Spain,IFA,Disability,38,23276.16,171,38,2
+2025-06-01,Spain,IFA,Income Protection,45,51979.01,236,45,2
+2025-06-01,Spain,IFA,Critical Illness,24,18780.38,112,24,1
+2025-06-01,Spain,IFA,Health,42,24154.57,204,42,2
+2025-06-01,Spain,IFA,Vitality Bundle,19,26795.63,99,19,1
+2025-06-01,Spain,Direct & Banca,Life,33,29616.62,151,33,1
+2025-06-01,Spain,Direct & Banca,Disability,20,12003.59,99,20,1
+2025-06-01,Spain,Direct & Banca,Income Protection,21,21976.54,106,21,1
+2025-06-01,Spain,Direct & Banca,Critical Illness,13,10323.14,58,13,1
+2025-06-01,Spain,Direct & Banca,Health,25,12905.36,119,25,2
+2025-06-01,Spain,Direct & Banca,Vitality Bundle,11,14097.48,50,11,0
+2025-06-01,Netherlands,Retail,Life,80,67158.55,390,80,5
+2025-06-01,Netherlands,Retail,Disability,45,27477.5,223,45,3
+2025-06-01,Netherlands,Retail,Income Protection,57,61144.95,268,57,4
+2025-06-01,Netherlands,Retail,Critical Illness,33,24162.3,165,33,1
+2025-06-01,Netherlands,Retail,Health,59,31975.39,264,59,2
+2025-06-01,Netherlands,Retail,Vitality Bundle,26,31746.02,130,26,1
+2025-06-01,Netherlands,IFA,Life,38,37038.8,192,38,2
+2025-06-01,Netherlands,IFA,Disability,21,13459.95,100,21,1
+2025-06-01,Netherlands,IFA,Income Protection,23,26754.49,121,23,2
+2025-06-01,Netherlands,IFA,Critical Illness,16,12630.23,70,16,1
+2025-06-01,Netherlands,IFA,Health,24,13619.12,121,24,2
+2025-06-01,Netherlands,IFA,Vitality Bundle,11,15381.21,54,11,1
+2025-06-01,Netherlands,Direct & Banca,Life,19,16135.86,90,19,1
+2025-06-01,Netherlands,Direct & Banca,Disability,10,6183.98,48,10,1
+2025-06-01,Netherlands,Direct & Banca,Income Protection,14,14233.56,68,14,1
+2025-06-01,Netherlands,Direct & Banca,Critical Illness,7,5131.63,35,7,0
+2025-06-01,Netherlands,Direct & Banca,Health,14,7220.0,71,14,1
+2025-06-01,Netherlands,Direct & Banca,Vitality Bundle,6,7812.02,29,6,0
+2025-06-01,Italy,Retail,Life,57,48386.58,256,57,4
+2025-06-01,Italy,Retail,Disability,31,18272.8,158,31,2
+2025-06-01,Italy,Retail,Income Protection,33,34738.85,157,33,2
+2025-06-01,Italy,Retail,Critical Illness,22,16957.11,114,22,1
+2025-06-01,Italy,Retail,Health,41,22269.14,189,41,2
+2025-06-01,Italy,Retail,Vitality Bundle,16,20850.57,80,16,1
+2025-06-01,Italy,IFA,Life,22,20683.05,107,22,1
+2025-06-01,Italy,IFA,Disability,14,9024.74,67,14,1
+2025-06-01,Italy,IFA,Income Protection,15,16772.17,79,15,1
+2025-06-01,Italy,IFA,Critical Illness,9,7739.92,47,9,1
+2025-06-01,Italy,IFA,Health,18,10418.3,80,18,1
+2025-06-01,Italy,IFA,Vitality Bundle,7,9191.15,35,7,0
+2025-06-01,Italy,Direct & Banca,Life,14,11896.6,68,14,1
+2025-06-01,Italy,Direct & Banca,Disability,7,4156.85,30,7,0
+2025-06-01,Italy,Direct & Banca,Income Protection,9,9592.47,42,9,1
+2025-06-01,Italy,Direct & Banca,Critical Illness,6,4374.64,29,6,0
+2025-06-01,Italy,Direct & Banca,Health,8,3955.93,41,8,0
+2025-06-01,Italy,Direct & Banca,Vitality Bundle,4,5183.33,19,4,0
+2025-07-01,Germany,Retail,Life,198,172745.07,1033,198,8
+2025-07-01,Germany,Retail,Disability,127,77833.94,608,127,4
+2025-07-01,Germany,Retail,Income Protection,131,140672.42,580,131,7
+2025-07-01,Germany,Retail,Critical Illness,78,61821.73,385,78,5
+2025-07-01,Germany,Retail,Health,153,81566.94,700,153,7
+2025-07-01,Germany,Retail,Vitality Bundle,59,71830.66,296,59,4
+2025-07-01,Germany,IFA,Life,95,92801.47,467,95,6
+2025-07-01,Germany,IFA,Disability,49,32747.96,224,49,2
+2025-07-01,Germany,IFA,Income Protection,70,74392.72,337,70,4
+2025-07-01,Germany,IFA,Critical Illness,37,31186.56,162,37,2
+2025-07-01,Germany,IFA,Health,71,37998.05,353,71,5
+2025-07-01,Germany,IFA,Vitality Bundle,29,38894.18,127,29,1
+2025-07-01,Germany,Direct & Banca,Life,53,46850.86,274,53,3
+2025-07-01,Germany,Direct & Banca,Disability,30,18077.2,155,30,1
+2025-07-01,Germany,Direct & Banca,Income Protection,36,37576.5,164,36,2
+2025-07-01,Germany,Direct & Banca,Critical Illness,19,13725.5,94,19,1
+2025-07-01,Germany,Direct & Banca,Health,34,17030.27,172,34,2
+2025-07-01,Germany,Direct & Banca,Vitality Bundle,16,19974.62,84,16,1
+2025-07-01,France,Retail,Life,162,142321.83,798,162,7
+2025-07-01,France,Retail,Disability,93,54254.36,481,93,6
+2025-07-01,France,Retail,Income Protection,126,135985.73,592,126,5
+2025-07-01,France,Retail,Critical Illness,69,50546.08,342,69,3
+2025-07-01,France,Retail,Health,113,58376.16,546,113,6
+2025-07-01,France,Retail,Vitality Bundle,48,58978.28,240,48,3
+2025-07-01,France,IFA,Life,81,73790.49,417,81,3
+2025-07-01,France,IFA,Disability,48,30072.43,223,48,3
+2025-07-01,France,IFA,Income Protection,51,55794.82,229,51,3
+2025-07-01,France,IFA,Critical Illness,35,27682.66,173,35,2
+2025-07-01,France,IFA,Health,52,28660.56,227,52,4
+2025-07-01,France,IFA,Vitality Bundle,23,31908.59,110,23,1
+2025-07-01,France,Direct & Banca,Life,40,34368.67,180,40,2
+2025-07-01,France,Direct & Banca,Disability,21,12469.11,98,21,1
+2025-07-01,France,Direct & Banca,Income Protection,29,30019.65,127,29,1
+2025-07-01,France,Direct & Banca,Critical Illness,18,13595.81,89,18,1
+2025-07-01,France,Direct & Banca,Health,32,17131.97,155,32,2
+2025-07-01,France,Direct & Banca,Vitality Bundle,13,15957.43,60,13,1
+2025-07-01,Spain,Retail,Life,146,121608.51,636,146,7
+2025-07-01,Spain,Retail,Disability,74,43688.87,326,74,4
+2025-07-01,Spain,Retail,Income Protection,92,97514.87,450,92,6
+2025-07-01,Spain,Retail,Critical Illness,55,42377.59,284,55,3
+2025-07-01,Spain,Retail,Health,99,50733.59,459,99,3
+2025-07-01,Spain,Retail,Vitality Bundle,45,57706.27,218,45,3
+2025-07-01,Spain,IFA,Life,68,63448.46,357,68,3
+2025-07-01,Spain,IFA,Disability,34,21705.52,159,34,2
+2025-07-01,Spain,IFA,Income Protection,41,45111.88,186,41,2
+2025-07-01,Spain,IFA,Critical Illness,25,20201.87,131,25,1
+2025-07-01,Spain,IFA,Health,43,25263.82,221,43,3
+2025-07-01,Spain,IFA,Vitality Bundle,17,22698.43,82,17,1
+2025-07-01,Spain,Direct & Banca,Life,33,28641.56,159,33,2
+2025-07-01,Spain,Direct & Banca,Disability,18,10407.88,81,18,1
+2025-07-01,Spain,Direct & Banca,Income Protection,23,24040.54,106,23,1
+2025-07-01,Spain,Direct & Banca,Critical Illness,14,10367.52,71,14,1
+2025-07-01,Spain,Direct & Banca,Health,23,12508.32,115,23,1
+2025-07-01,Spain,Direct & Banca,Vitality Bundle,9,11499.3,43,9,0
+2025-07-01,Netherlands,Retail,Life,79,66649.71,370,79,4
+2025-07-01,Netherlands,Retail,Disability,44,25196.22,200,44,3
+2025-07-01,Netherlands,Retail,Income Protection,47,46482.08,209,47,2
+2025-07-01,Netherlands,Retail,Critical Illness,30,22703.21,150,30,2
+2025-07-01,Netherlands,Retail,Health,54,28470.62,252,54,3
+2025-07-01,Netherlands,Retail,Vitality Bundle,24,29780.12,107,24,1
+2025-07-01,Netherlands,IFA,Life,37,35481.32,183,37,2
+2025-07-01,Netherlands,IFA,Disability,18,11049.75,92,18,1
+2025-07-01,Netherlands,IFA,Income Protection,22,24946.19,105,22,1
+2025-07-01,Netherlands,IFA,Critical Illness,13,10546.31,66,13,1
+2025-07-01,Netherlands,IFA,Health,25,14243.95,109,25,1
+2025-07-01,Netherlands,IFA,Vitality Bundle,10,13118.52,49,10,0
+2025-07-01,Netherlands,Direct & Banca,Life,17,14581.52,89,17,1
+2025-07-01,Netherlands,Direct & Banca,Disability,11,6791.03,52,11,1
+2025-07-01,Netherlands,Direct & Banca,Income Protection,13,13277.03,58,13,1
+2025-07-01,Netherlands,Direct & Banca,Critical Illness,7,5070.42,32,7,0
+2025-07-01,Netherlands,Direct & Banca,Health,12,6263.47,61,12,1
+2025-07-01,Netherlands,Direct & Banca,Vitality Bundle,6,7761.04,28,6,0
+2025-07-01,Italy,Retail,Life,48,42908.87,215,48,2
+2025-07-01,Italy,Retail,Disability,30,16888.65,137,30,2
+2025-07-01,Italy,Retail,Income Protection,38,37583.86,170,38,2
+2025-07-01,Italy,Retail,Critical Illness,20,15958.96,96,20,1
+2025-07-01,Italy,Retail,Health,38,19639.6,165,38,2
+2025-07-01,Italy,Retail,Vitality Bundle,15,19487.23,70,15,1
+2025-07-01,Italy,IFA,Life,24,22849.8,122,24,1
+2025-07-01,Italy,IFA,Disability,12,7422.32,62,12,1
+2025-07-01,Italy,IFA,Income Protection,15,16750.69,74,15,1
+2025-07-01,Italy,IFA,Critical Illness,9,7215.33,40,9,1
+2025-07-01,Italy,IFA,Health,17,9160.75,74,17,1
+2025-07-01,Italy,IFA,Vitality Bundle,8,11422.54,36,8,0
+2025-07-01,Italy,Direct & Banca,Life,13,11026.88,60,13,1
+2025-07-01,Italy,Direct & Banca,Disability,7,4202.78,33,7,0
+2025-07-01,Italy,Direct & Banca,Income Protection,8,8169.32,38,8,0
+2025-07-01,Italy,Direct & Banca,Critical Illness,5,3645.38,24,5,0
+2025-07-01,Italy,Direct & Banca,Health,9,4618.73,39,9,0
+2025-07-01,Italy,Direct & Banca,Vitality Bundle,3,3883.62,14,3,0
+2025-08-01,Germany,Retail,Life,214,189236.03,1047,214,7
+2025-08-01,Germany,Retail,Disability,120,68802.24,579,120,5
+2025-08-01,Germany,Retail,Income Protection,138,146807.08,678,138,7
+2025-08-01,Germany,Retail,Critical Illness,87,66023.05,427,87,5
+2025-08-01,Germany,Retail,Health,137,68387.37,619,137,7
+2025-08-01,Germany,Retail,Vitality Bundle,60,78303.85,289,60,2
+2025-08-01,Germany,IFA,Life,106,96632.76,487,106,4
+2025-08-01,Germany,IFA,Disability,55,33850.85,242,55,2
+2025-08-01,Germany,IFA,Income Protection,67,72670.43,327,67,4
+2025-08-01,Germany,IFA,Critical Illness,36,29242.5,178,36,2
+2025-08-01,Germany,IFA,Health,64,36501.25,293,64,2
+2025-08-01,Germany,IFA,Vitality Bundle,29,38013.72,146,29,2
+2025-08-01,Germany,Direct & Banca,Life,47,41689.8,211,47,3
+2025-08-01,Germany,Direct & Banca,Disability,28,15912.35,145,28,1
+2025-08-01,Germany,Direct & Banca,Income Protection,36,35605.8,178,36,2
+2025-08-01,Germany,Direct & Banca,Critical Illness,19,14834.88,86,19,1
+2025-08-01,Germany,Direct & Banca,Health,40,20057.13,189,40,1
+2025-08-01,Germany,Direct & Banca,Vitality Bundle,16,20039.24,73,16,1
+2025-08-01,France,Retail,Life,165,142282.6,759,165,11
+2025-08-01,France,Retail,Disability,89,50412.04,404,89,5
+2025-08-01,France,Retail,Income Protection,116,125014.9,573,116,4
+2025-08-01,France,Retail,Critical Illness,68,49531.4,321,68,4
+2025-08-01,France,Retail,Health,127,67882.32,584,127,8
+2025-08-01,France,Retail,Vitality Bundle,55,67925.43,261,55,3
+2025-08-01,France,IFA,Life,84,77312.69,437,84,6
+2025-08-01,France,IFA,Disability,48,30569.96,247,48,2
+2025-08-01,France,IFA,Income Protection,54,60239.52,236,54,4
+2025-08-01,France,IFA,Critical Illness,35,27670.76,156,35,2
+2025-08-01,France,IFA,Health,54,30881.2,245,54,4
+2025-08-01,France,IFA,Vitality Bundle,25,32375.78,130,25,1
+2025-08-01,France,Direct & Banca,Life,39,32438.67,176,39,2
+2025-08-01,France,Direct & Banca,Disability,24,14161.49,116,24,1
+2025-08-01,France,Direct & Banca,Income Protection,26,26877.92,121,26,1
+2025-08-01,France,Direct & Banca,Critical Illness,16,12173.75,81,16,1
+2025-08-01,France,Direct & Banca,Health,30,15429.54,139,30,2
+2025-08-01,France,Direct & Banca,Vitality Bundle,13,15669.3,60,13,1
+2025-08-01,Spain,Retail,Life,148,123067.6,765,148,7
+2025-08-01,Spain,Retail,Disability,75,44731.58,371,75,4
+2025-08-01,Spain,Retail,Income Protection,97,96107.86,444,97,6
+2025-08-01,Spain,Retail,Critical Illness,52,41310.32,247,52,3
+2025-08-01,Spain,Retail,Health,101,50770.89,518,101,6
+2025-08-01,Spain,Retail,Vitality Bundle,40,52347.53,181,40,1
+2025-08-01,Spain,IFA,Life,66,60599.57,343,66,4
+2025-08-01,Spain,IFA,Disability,35,21358.78,168,35,2
+2025-08-01,Spain,IFA,Income Protection,42,47033.3,205,42,2
+2025-08-01,Spain,IFA,Critical Illness,23,19017.93,105,23,1
+2025-08-01,Spain,IFA,Health,44,23583.7,196,44,2
+2025-08-01,Spain,IFA,Vitality Bundle,19,25552.64,97,19,1
+2025-08-01,Spain,Direct & Banca,Life,36,31485.57,159,36,2
+2025-08-01,Spain,Direct & Banca,Disability,18,10430.75,87,18,1
+2025-08-01,Spain,Direct & Banca,Income Protection,21,20716.97,102,21,1
+2025-08-01,Spain,Direct & Banca,Critical Illness,14,10298.82,63,14,1
+2025-08-01,Spain,Direct & Banca,Health,25,12439.6,120,25,1
+2025-08-01,Spain,Direct & Banca,Vitality Bundle,11,13620.64,52,11,0
+2025-08-01,Netherlands,Retail,Life,73,63915.24,361,73,4
+2025-08-01,Netherlands,Retail,Disability,42,25007.21,200,42,3
+2025-08-01,Netherlands,Retail,Income Protection,49,52491.04,222,49,2
+2025-08-01,Netherlands,Retail,Critical Illness,28,21088.56,140,28,1
+2025-08-01,Netherlands,Retail,Health,58,31297.63,254,58,2
+2025-08-01,Netherlands,Retail,Vitality Bundle,24,31295.39,110,24,1
+2025-08-01,Netherlands,IFA,Life,35,32024.94,167,35,1
+2025-08-01,Netherlands,IFA,Disability,21,13664.42,108,21,1
+2025-08-01,Netherlands,IFA,Income Protection,25,27864.95,115,25,1
+2025-08-01,Netherlands,IFA,Critical Illness,15,11800.93,77,15,1
+2025-08-01,Netherlands,IFA,Health,26,13980.78,122,26,1
+2025-08-01,Netherlands,IFA,Vitality Bundle,11,14574.78,55,11,0
+2025-08-01,Netherlands,Direct & Banca,Life,20,17749.26,91,20,1
+2025-08-01,Netherlands,Direct & Banca,Disability,10,5649.07,50,10,1
+2025-08-01,Netherlands,Direct & Banca,Income Protection,13,12928.59,66,13,1
+2025-08-01,Netherlands,Direct & Banca,Critical Illness,7,5339.11,31,7,0
+2025-08-01,Netherlands,Direct & Banca,Health,13,6601.15,67,13,0
+2025-08-01,Netherlands,Direct & Banca,Vitality Bundle,6,7806.75,28,6,0
+2025-08-01,Italy,Retail,Life,55,47025.99,284,55,2
+2025-08-01,Italy,Retail,Disability,28,16542.24,129,28,1
+2025-08-01,Italy,Retail,Income Protection,38,37304.66,184,38,2
+2025-08-01,Italy,Retail,Critical Illness,22,16301.75,106,22,1
+2025-08-01,Italy,Retail,Health,34,16817.14,152,34,2
+2025-08-01,Italy,Retail,Vitality Bundle,14,18210.96,68,14,1
+2025-08-01,Italy,IFA,Life,24,22736.04,120,24,2
+2025-08-01,Italy,IFA,Disability,12,7313.38,53,12,1
+2025-08-01,Italy,IFA,Income Protection,14,16204.45,63,14,1
+2025-08-01,Italy,IFA,Critical Illness,8,6540.79,41,8,0
+2025-08-01,Italy,IFA,Health,17,9446.95,89,17,1
+2025-08-01,Italy,IFA,Vitality Bundle,7,9253.85,35,7,0
+2025-08-01,Italy,Direct & Banca,Life,13,10783.69,61,13,1
+2025-08-01,Italy,Direct & Banca,Disability,7,4093.65,33,7,0
+2025-08-01,Italy,Direct & Banca,Income Protection,8,7941.08,40,8,1
+2025-08-01,Italy,Direct & Banca,Critical Illness,5,3849.69,23,5,0
+2025-08-01,Italy,Direct & Banca,Health,10,5346.6,49,10,1
+2025-08-01,Italy,Direct & Banca,Vitality Bundle,4,5247.99,19,4,0
+2025-09-01,Germany,Retail,Life,203,173411.2,1021,203,13
+2025-09-01,Germany,Retail,Disability,126,71058.57,549,126,6
+2025-09-01,Germany,Retail,Income Protection,155,167626.21,677,155,5
+2025-09-01,Germany,Retail,Critical Illness,89,66060.79,400,89,6
+2025-09-01,Germany,Retail,Health,138,75322.11,694,138,9
+2025-09-01,Germany,Retail,Vitality Bundle,69,85677.67,309,69,4
+2025-09-01,Germany,IFA,Life,91,86294.68,409,91,5
+2025-09-01,Germany,IFA,Disability,58,35213.96,266,58,4
+2025-09-01,Germany,IFA,Income Protection,67,75001.16,339,67,5
+2025-09-01,Germany,IFA,Critical Illness,42,34446.8,208,42,2
+2025-09-01,Germany,IFA,Health,63,34434.8,317,63,3
+2025-09-01,Germany,IFA,Vitality Bundle,26,36859.35,131,26,1
+2025-09-01,Germany,Direct & Banca,Life,54,48947.43,241,54,2
+2025-09-01,Germany,Direct & Banca,Disability,26,15472.86,115,26,2
+2025-09-01,Germany,Direct & Banca,Income Protection,38,40551.66,166,38,2
+2025-09-01,Germany,Direct & Banca,Critical Illness,23,17297.5,119,23,1
+2025-09-01,Germany,Direct & Banca,Health,34,17074.47,149,34,2
+2025-09-01,Germany,Direct & Banca,Vitality Bundle,17,21739.54,86,17,1
+2025-09-01,France,Retail,Life,185,167852.26,835,185,7
+2025-09-01,France,Retail,Disability,99,56513.73,489,99,6
+2025-09-01,France,Retail,Income Protection,111,116946.22,487,111,8
+2025-09-01,France,Retail,Critical Illness,70,55829.59,306,70,2
+2025-09-01,France,Retail,Health,127,68820.54,555,127,5
+2025-09-01,France,Retail,Vitality Bundle,54,71011.22,276,54,3
+2025-09-01,France,IFA,Life,76,74854.25,386,76,5
+2025-09-01,France,IFA,Disability,40,26020.61,186,40,3
+2025-09-01,France,IFA,Income Protection,54,58659.24,270,54,2
+2025-09-01,France,IFA,Critical Illness,30,23658.82,158,30,1
+2025-09-01,France,IFA,Health,59,34688.74,262,59,3
+2025-09-01,France,IFA,Vitality Bundle,23,31442.45,119,23,1
+2025-09-01,France,Direct & Banca,Life,46,40624.18,212,46,2
+2025-09-01,France,Direct & Banca,Disability,21,12818.4,104,21,1
+2025-09-01,France,Direct & Banca,Income Protection,32,31556.56,163,32,1
+2025-09-01,France,Direct & Banca,Critical Illness,18,13744.36,80,18,1
+2025-09-01,France,Direct & Banca,Health,30,15777.29,143,30,1
+2025-09-01,France,Direct & Banca,Vitality Bundle,14,17049.06,62,14,1
+2025-09-01,Spain,Retail,Life,128,108081.01,648,128,7
+2025-09-01,Spain,Retail,Disability,80,48285.48,399,80,3
+2025-09-01,Spain,Retail,Income Protection,89,87541.51,418,89,6
+2025-09-01,Spain,Retail,Critical Illness,52,38970.0,251,52,2
+2025-09-01,Spain,Retail,Health,100,52521.12,505,100,3
+2025-09-01,Spain,Retail,Vitality Bundle,39,48116.96,202,39,2
+2025-09-01,Spain,IFA,Life,60,55797.96,286,60,3
+2025-09-01,Spain,IFA,Disability,32,20480.37,162,32,2
+2025-09-01,Spain,IFA,Income Protection,41,45361.09,204,41,2
+2025-09-01,Spain,IFA,Critical Illness,24,19243.29,125,24,1
+2025-09-01,Spain,IFA,Health,45,24225.0,221,45,2
+2025-09-01,Spain,IFA,Vitality Bundle,20,27460.2,94,20,1
+2025-09-01,Spain,Direct & Banca,Life,35,30202.23,166,35,2
+2025-09-01,Spain,Direct & Banca,Disability,18,11025.32,86,18,1
+2025-09-01,Spain,Direct & Banca,Income Protection,24,25249.76,114,24,2
+2025-09-01,Spain,Direct & Banca,Critical Illness,14,10828.9,65,14,0
+2025-09-01,Spain,Direct & Banca,Health,25,12574.74,109,25,2
+2025-09-01,Spain,Direct & Banca,Vitality Bundle,11,13341.89,53,11,1
+2025-09-01,Netherlands,Retail,Life,77,70321.21,358,77,5
+2025-09-01,Netherlands,Retail,Disability,41,25183.74,181,41,1
+2025-09-01,Netherlands,Retail,Income Protection,52,53010.23,256,52,2
+2025-09-01,Netherlands,Retail,Critical Illness,31,24439.89,140,31,2
+2025-09-01,Netherlands,Retail,Health,55,28370.04,266,55,2
+2025-09-01,Netherlands,Retail,Vitality Bundle,24,31021.33,105,24,2
+2025-09-01,Netherlands,IFA,Life,36,32475.93,179,36,2
+2025-09-01,Netherlands,IFA,Disability,19,11998.92,93,19,1
+2025-09-01,Netherlands,IFA,Income Protection,24,25462.74,119,24,1
+2025-09-01,Netherlands,IFA,Critical Illness,14,11713.74,73,14,1
+2025-09-01,Netherlands,IFA,Health,24,13124.7,109,24,2
+2025-09-01,Netherlands,IFA,Vitality Bundle,11,14250.65,49,11,0
+2025-09-01,Netherlands,Direct & Banca,Life,18,15646.88,83,18,1
+2025-09-01,Netherlands,Direct & Banca,Disability,11,6252.72,48,11,1
+2025-09-01,Netherlands,Direct & Banca,Income Protection,14,14087.5,68,14,1
+2025-09-01,Netherlands,Direct & Banca,Critical Illness,7,5166.46,31,7,0
+2025-09-01,Netherlands,Direct & Banca,Health,14,7547.31,63,14,1
+2025-09-01,Netherlands,Direct & Banca,Vitality Bundle,5,6181.01,24,5,0
+2025-09-01,Italy,Retail,Life,56,50568.11,293,56,2
+2025-09-01,Italy,Retail,Disability,31,18906.33,155,31,1
+2025-09-01,Italy,Retail,Income Protection,38,39940.94,189,38,2
+2025-09-01,Italy,Retail,Critical Illness,21,16176.11,108,21,1
+2025-09-01,Italy,Retail,Health,35,18371.16,178,35,2
+2025-09-01,Italy,Retail,Vitality Bundle,16,19857.12,81,16,1
+2025-09-01,Italy,IFA,Life,25,23933.61,124,25,1
+2025-09-01,Italy,IFA,Disability,12,7701.65,52,12,1
+2025-09-01,Italy,IFA,Income Protection,16,18114.67,80,16,1
+2025-09-01,Italy,IFA,Critical Illness,8,6750.46,36,8,0
+2025-09-01,Italy,IFA,Health,18,10257.77,84,18,1
+2025-09-01,Italy,IFA,Vitality Bundle,7,9816.21,35,7,0
+2025-09-01,Italy,Direct & Banca,Life,13,11223.83,63,13,1
+2025-09-01,Italy,Direct & Banca,Disability,7,4116.25,32,7,0
+2025-09-01,Italy,Direct & Banca,Income Protection,8,7912.31,38,8,0
+2025-09-01,Italy,Direct & Banca,Critical Illness,5,3752.21,23,5,0
+2025-09-01,Italy,Direct & Banca,Health,8,3996.97,42,8,1
+2025-09-01,Italy,Direct & Banca,Vitality Bundle,4,5222.19,20,4,0
+2025-10-01,Germany,Retail,Life,235,200336.28,1199,235,14
+2025-10-01,Germany,Retail,Disability,129,78434.63,581,129,7
+2025-10-01,Germany,Retail,Income Protection,154,161487.15,704,154,9
+2025-10-01,Germany,Retail,Critical Illness,96,71204.77,464,96,4
+2025-10-01,Germany,Retail,Health,138,73253.1,648,138,5
+2025-10-01,Germany,Retail,Vitality Bundle,68,83301.21,322,68,4
+2025-10-01,Germany,IFA,Life,106,101309.37,504,106,7
+2025-10-01,Germany,IFA,Disability,58,38349.03,294,58,2
+2025-10-01,Germany,IFA,Income Protection,62,67304.25,279,62,4
+2025-10-01,Germany,IFA,Critical Illness,37,30915.38,182,37,1
+2025-10-01,Germany,IFA,Health,67,38546.09,331,67,4
+2025-10-01,Germany,IFA,Vitality Bundle,28,37190.07,139,28,2
+2025-10-01,Germany,Direct & Banca,Life,52,46897.56,244,52,4
+2025-10-01,Germany,Direct & Banca,Disability,26,15937.38,124,26,2
+2025-10-01,Germany,Direct & Banca,Income Protection,35,35323.07,182,35,2
+2025-10-01,Germany,Direct & Banca,Critical Illness,19,14007.23,92,19,1
+2025-10-01,Germany,Direct & Banca,Health,40,20711.75,197,40,2
+2025-10-01,Germany,Direct & Banca,Vitality Bundle,17,21393.4,79,17,1
+2025-10-01,France,Retail,Life,183,151324.54,911,183,11
+2025-10-01,France,Retail,Disability,92,55715.62,439,92,6
+2025-10-01,France,Retail,Income Protection,112,116680.64,520,112,5
+2025-10-01,France,Retail,Critical Illness,78,58588.3,407,78,3
+2025-10-01,France,Retail,Health,122,60357.31,601,122,8
+2025-10-01,France,Retail,Vitality Bundle,50,64113.51,232,50,2
+2025-10-01,France,IFA,Life,83,76772.93,425,83,4
+2025-10-01,France,IFA,Disability,45,27719.21,202,45,2
+2025-10-01,France,IFA,Income Protection,53,60300.43,248,53,2
+2025-10-01,France,IFA,Critical Illness,35,30151.39,172,35,2
+2025-10-01,France,IFA,Health,55,29925.61,241,55,4
+2025-10-01,France,IFA,Vitality Bundle,24,31772.24,110,24,1
+2025-10-01,France,Direct & Banca,Life,45,39501.15,229,45,2
+2025-10-01,France,Direct & Banca,Disability,24,13504.91,107,24,1
+2025-10-01,France,Direct & Banca,Income Protection,30,29505.13,131,30,2
+2025-10-01,France,Direct & Banca,Critical Illness,18,13023.01,83,18,1
+2025-10-01,France,Direct & Banca,Health,29,15151.3,139,29,1
+2025-10-01,France,Direct & Banca,Vitality Bundle,13,16593.45,64,13,1
+2025-10-01,Spain,Retail,Life,144,122398.27,672,144,5
+2025-10-01,Spain,Retail,Disability,82,46468.58,375,82,3
+2025-10-01,Spain,Retail,Income Protection,88,87071.17,445,88,3
+2025-10-01,Spain,Retail,Critical Illness,53,40373.23,268,53,3
+2025-10-01,Spain,Retail,Health,93,46132.57,443,93,4
+2025-10-01,Spain,Retail,Vitality Bundle,45,55739.52,237,45,3
+2025-10-01,Spain,IFA,Life,68,66034.69,314,68,2
+2025-10-01,Spain,IFA,Disability,32,20414.27,146,32,1
+2025-10-01,Spain,IFA,Income Protection,41,44382.27,179,41,2
+2025-10-01,Spain,IFA,Critical Illness,25,19698.81,127,25,1
+2025-10-01,Spain,IFA,Health,42,24298.58,207,42,3
+2025-10-01,Spain,IFA,Vitality Bundle,17,23730.92,89,17,1
+2025-10-01,Spain,Direct & Banca,Life,35,29446.71,171,35,2
+2025-10-01,Spain,Direct & Banca,Disability,19,11634.27,98,19,1
+2025-10-01,Spain,Direct & Banca,Income Protection,21,21415.38,92,21,1
+2025-10-01,Spain,Direct & Banca,Critical Illness,13,10226.46,59,13,1
+2025-10-01,Spain,Direct & Banca,Health,25,12496.97,115,25,1
+2025-10-01,Spain,Direct & Banca,Vitality Bundle,11,13387.92,53,11,1
+2025-10-01,Netherlands,Retail,Life,83,73498.18,421,83,4
+2025-10-01,Netherlands,Retail,Disability,42,23612.41,193,42,3
+2025-10-01,Netherlands,Retail,Income Protection,59,58525.49,260,59,2
+2025-10-01,Netherlands,Retail,Critical Illness,31,22490.31,155,31,1
+2025-10-01,Netherlands,Retail,Health,57,30167.38,258,57,3
+2025-10-01,Netherlands,Retail,Vitality Bundle,24,31685.16,111,24,1
+2025-10-01,Netherlands,IFA,Life,35,33545.63,181,35,2
+2025-10-01,Netherlands,IFA,Disability,18,11292.68,83,18,1
+2025-10-01,Netherlands,IFA,Income Protection,26,29091.15,113,26,1
+2025-10-01,Netherlands,IFA,Critical Illness,15,11889.61,67,15,1
+2025-10-01,Netherlands,IFA,Health,26,13980.84,124,26,1
+2025-10-01,Netherlands,IFA,Vitality Bundle,12,15595.34,60,12,1
+2025-10-01,Netherlands,Direct & Banca,Life,18,15245.01,86,18,1
+2025-10-01,Netherlands,Direct & Banca,Disability,10,6110.39,48,10,0
+2025-10-01,Netherlands,Direct & Banca,Income Protection,13,13595.37,67,13,1
+2025-10-01,Netherlands,Direct & Banca,Critical Illness,8,5776.1,41,8,0
+2025-10-01,Netherlands,Direct & Banca,Health,13,6627.91,62,13,0
+2025-10-01,Netherlands,Direct & Banca,Vitality Bundle,6,7900.47,29,6,0
+2025-10-01,Italy,Retail,Life,49,42435.86,231,49,3
+2025-10-01,Italy,Retail,Disability,29,17378.91,133,29,1
+2025-10-01,Italy,Retail,Income Protection,38,38050.92,187,38,2
+2025-10-01,Italy,Retail,Critical Illness,23,17116.39,109,23,1
+2025-10-01,Italy,Retail,Health,33,16583.69,169,33,2
+2025-10-01,Italy,Retail,Vitality Bundle,16,19367.63,75,16,1
+2025-10-01,Italy,IFA,Life,26,24167.95,125,26,2
+2025-10-01,Italy,IFA,Disability,13,7958.69,63,13,1
+2025-10-01,Italy,IFA,Income Protection,17,19078.75,77,17,1
+2025-10-01,Italy,IFA,Critical Illness,10,8582.44,51,10,0
+2025-10-01,Italy,IFA,Health,17,9116.21,75,17,1
+2025-10-01,Italy,IFA,Vitality Bundle,7,9533.54,31,7,0
+2025-10-01,Italy,Direct & Banca,Life,13,11570.69,67,13,1
+2025-10-01,Italy,Direct & Banca,Disability,7,4288.05,33,7,0
+2025-10-01,Italy,Direct & Banca,Income Protection,9,9655.55,41,9,0
+2025-10-01,Italy,Direct & Banca,Critical Illness,5,3978.79,24,5,0
+2025-10-01,Italy,Direct & Banca,Health,9,4773.61,41,9,0
+2025-10-01,Italy,Direct & Banca,Vitality Bundle,4,5221.8,18,4,0
+2025-11-01,Germany,Retail,Life,224,189050.93,1042,224,9
+2025-11-01,Germany,Retail,Disability,116,69619.73,506,116,6
+2025-11-01,Germany,Retail,Income Protection,165,170016.17,758,165,7
+2025-11-01,Germany,Retail,Critical Illness,81,60650.38,387,81,4
+2025-11-01,Germany,Retail,Health,158,81482.0,718,158,10
+2025-11-01,Germany,Retail,Vitality Bundle,63,82136.88,283,63,3
+2025-11-01,Germany,IFA,Life,89,80658.47,410,89,3
+2025-11-01,Germany,IFA,Disability,57,35088.9,283,57,2
+2025-11-01,Germany,IFA,Income Protection,73,82752.93,362,73,4
+2025-11-01,Germany,IFA,Critical Illness,36,30476.71,185,36,2
+2025-11-01,Germany,IFA,Health,72,41910.44,328,72,4
+2025-11-01,Germany,IFA,Vitality Bundle,28,39185.68,126,28,1
+2025-11-01,Germany,Direct & Banca,Life,54,48983.63,263,54,4
+2025-11-01,Germany,Direct & Banca,Disability,32,18526.29,151,32,1
+2025-11-01,Germany,Direct & Banca,Income Protection,34,35442.21,154,34,2
+2025-11-01,Germany,Direct & Banca,Critical Illness,22,17408.01,101,22,1
+2025-11-01,Germany,Direct & Banca,Health,39,20374.54,182,39,2
+2025-11-01,Germany,Direct & Banca,Vitality Bundle,17,20979.13,86,17,1
+2025-11-01,France,Retail,Life,168,141392.19,798,168,8
+2025-11-01,France,Retail,Disability,97,57553.91,497,97,5
+2025-11-01,France,Retail,Income Protection,118,119480.66,540,118,4
+2025-11-01,France,Retail,Critical Illness,67,50016.83,349,67,5
+2025-11-01,France,Retail,Health,128,67637.54,611,128,7
+2025-11-01,France,Retail,Vitality Bundle,52,67380.97,257,52,2
+2025-11-01,France,IFA,Life,75,67426.94,357,75,3
+2025-11-01,France,IFA,Disability,45,27503.94,226,45,2
+2025-11-01,France,IFA,Income Protection,54,59233.42,272,54,3
+2025-11-01,France,IFA,Critical Illness,32,27570.03,144,32,2
+2025-11-01,France,IFA,Health,51,29125.47,245,51,3
+2025-11-01,France,IFA,Vitality Bundle,25,34432.09,109,25,1
+2025-11-01,France,Direct & Banca,Life,41,37153.63,180,41,2
+2025-11-01,France,Direct & Banca,Disability,24,13852.49,106,24,2
+2025-11-01,France,Direct & Banca,Income Protection,29,30774.51,140,29,1
+2025-11-01,France,Direct & Banca,Critical Illness,19,13995.99,90,19,1
+2025-11-01,France,Direct & Banca,Health,28,15224.34,132,28,1
+2025-11-01,France,Direct & Banca,Vitality Bundle,12,15377.55,54,12,1
+2025-11-01,Spain,Retail,Life,138,115304.75,652,138,8
+2025-11-01,Spain,Retail,Disability,84,50923.92,389,84,6
+2025-11-01,Spain,Retail,Income Protection,101,100428.01,485,101,4
+2025-11-01,Spain,Retail,Critical Illness,51,37032.34,230,51,3
+2025-11-01,Spain,Retail,Health,99,50077.92,494,99,5
+2025-11-01,Spain,Retail,Vitality Bundle,43,53817.13,226,43,2
+2025-11-01,Spain,IFA,Life,63,60031.95,293,63,4
+2025-11-01,Spain,IFA,Disability,35,22750.01,181,35,2
+2025-11-01,Spain,IFA,Income Protection,40,45772.55,198,40,1
+2025-11-01,Spain,IFA,Critical Illness,26,21207.8,126,26,1
+2025-11-01,Spain,IFA,Health,44,24793.1,225,44,2
+2025-11-01,Spain,IFA,Vitality Bundle,20,27340.44,88,20,1
+2025-11-01,Spain,Direct & Banca,Life,35,31711.14,158,35,2
+2025-11-01,Spain,Direct & Banca,Disability,18,11097.33,85,18,1
+2025-11-01,Spain,Direct & Banca,Income Protection,21,20559.38,98,21,1
+2025-11-01,Spain,Direct & Banca,Critical Illness,15,11177.35,68,15,1
+2025-11-01,Spain,Direct & Banca,Health,23,11855.53,107,23,1
+2025-11-01,Spain,Direct & Banca,Vitality Bundle,9,11023.37,40,9,0
+2025-11-01,Netherlands,Retail,Life,74,66309.21,330,74,5
+2025-11-01,Netherlands,Retail,Disability,47,29100.73,225,47,2
+2025-11-01,Netherlands,Retail,Income Protection,52,51242.79,268,52,3
+2025-11-01,Netherlands,Retail,Critical Illness,31,23161.48,159,31,2
+2025-11-01,Netherlands,Retail,Health,51,26836.96,226,51,2
+2025-11-01,Netherlands,Retail,Vitality Bundle,23,29317.16,114,23,1
+2025-11-01,Netherlands,IFA,Life,36,33367.24,178,36,2
+2025-11-01,Netherlands,IFA,Disability,18,11178.47,91,18,1
+2025-11-01,Netherlands,IFA,Income Protection,24,27605.61,123,24,1
+2025-11-01,Netherlands,IFA,Critical Illness,15,12266.26,73,15,1
+2025-11-01,Netherlands,IFA,Health,25,13584.78,117,25,2
+2025-11-01,Netherlands,IFA,Vitality Bundle,11,14429.93,52,11,0
+2025-11-01,Netherlands,Direct & Banca,Life,20,16663.04,104,20,1
+2025-11-01,Netherlands,Direct & Banca,Disability,10,5623.4,47,10,0
+2025-11-01,Netherlands,Direct & Banca,Income Protection,13,13934.04,61,13,1
+2025-11-01,Netherlands,Direct & Banca,Critical Illness,8,6063.04,36,8,0
+2025-11-01,Netherlands,Direct & Banca,Health,12,6409.82,55,12,0
+2025-11-01,Netherlands,Direct & Banca,Vitality Bundle,6,7567.87,29,6,0
+2025-11-01,Italy,Retail,Life,54,48614.82,243,54,3
+2025-11-01,Italy,Retail,Disability,27,15952.52,130,27,1
+2025-11-01,Italy,Retail,Income Protection,40,41856.78,175,40,2
+2025-11-01,Italy,Retail,Critical Illness,21,15734.64,106,21,1
+2025-11-01,Italy,Retail,Health,33,16935.95,172,33,1
+2025-11-01,Italy,Retail,Vitality Bundle,17,21122.8,81,17,1
+2025-11-01,Italy,IFA,Life,21,20679.88,103,21,1
+2025-11-01,Italy,IFA,Disability,13,8556.67,58,13,1
+2025-11-01,Italy,IFA,Income Protection,16,17217.9,74,16,1
+2025-11-01,Italy,IFA,Critical Illness,10,8483.35,47,10,0
+2025-11-01,Italy,IFA,Health,18,10125.35,88,18,1
+2025-11-01,Italy,IFA,Vitality Bundle,7,9508.56,33,7,0
+2025-11-01,Italy,Direct & Banca,Life,12,10090.89,62,12,1
+2025-11-01,Italy,Direct & Banca,Disability,7,4000.69,34,7,0
+2025-11-01,Italy,Direct & Banca,Income Protection,8,8017.81,36,8,0
+2025-11-01,Italy,Direct & Banca,Critical Illness,5,3791.95,25,5,0
+2025-11-01,Italy,Direct & Banca,Health,9,4456.5,47,9,0
+2025-11-01,Italy,Direct & Banca,Vitality Bundle,4,5105.29,21,4,0
+2025-12-01,Germany,Retail,Life,212,179981.34,1075,212,14
+2025-12-01,Germany,Retail,Disability,130,77187.85,682,130,8
+2025-12-01,Germany,Retail,Income Protection,168,169292.9,869,168,8
+2025-12-01,Germany,Retail,Critical Illness,102,80367.33,518,102,6
+2025-12-01,Germany,Retail,Health,166,88863.13,745,166,6
+2025-12-01,Germany,Retail,Vitality Bundle,72,88583.73,329,72,3
+2025-12-01,Germany,IFA,Life,104,98603.69,522,104,5
+2025-12-01,Germany,IFA,Disability,53,32766.38,236,53,3
+2025-12-01,Germany,IFA,Income Protection,72,77286.04,371,72,4
+2025-12-01,Germany,IFA,Critical Illness,43,33667.46,194,43,2
+2025-12-01,Germany,IFA,Health,68,38120.98,348,68,4
+2025-12-01,Germany,IFA,Vitality Bundle,33,46689.04,149,33,2
+2025-12-01,Germany,Direct & Banca,Life,56,48088.48,292,56,3
+2025-12-01,Germany,Direct & Banca,Disability,29,17627.24,131,29,1
+2025-12-01,Germany,Direct & Banca,Income Protection,40,42194.54,181,40,2
+2025-12-01,Germany,Direct & Banca,Critical Illness,21,15375.68,100,21,1
+2025-12-01,Germany,Direct & Banca,Health,42,21366.65,187,42,2
+2025-12-01,Germany,Direct & Banca,Vitality Bundle,16,20581.64,72,16,1
+2025-12-01,France,Retail,Life,176,145574.16,814,176,10
+2025-12-01,France,Retail,Disability,101,58769.27,515,101,6
+2025-12-01,France,Retail,Income Protection,127,135453.45,614,127,6
+2025-12-01,France,Retail,Critical Illness,73,56482.0,332,73,3
+2025-12-01,France,Retail,Health,141,73191.45,688,141,7
+2025-12-01,France,Retail,Vitality Bundle,54,66724.47,265,54,3
+2025-12-01,France,IFA,Life,90,87566.01,416,90,5
+2025-12-01,France,IFA,Disability,47,30545.31,239,47,2
+2025-12-01,France,IFA,Income Protection,59,64571.24,278,59,3
+2025-12-01,France,IFA,Critical Illness,36,28546.32,157,36,1
+2025-12-01,France,IFA,Health,55,29792.49,242,55,3
+2025-12-01,France,IFA,Vitality Bundle,23,30427.59,119,23,1
+2025-12-01,France,Direct & Banca,Life,45,41046.61,210,45,2
+2025-12-01,France,Direct & Banca,Disability,26,15489.52,114,26,2
+2025-12-01,France,Direct & Banca,Income Protection,33,33782.57,167,33,2
+2025-12-01,France,Direct & Banca,Critical Illness,19,14130.99,99,19,1
+2025-12-01,France,Direct & Banca,Health,32,16193.5,163,32,1
+2025-12-01,France,Direct & Banca,Vitality Bundle,13,15561.47,66,13,1
+2025-12-01,Spain,Retail,Life,157,134583.87,763,157,8
+2025-12-01,Spain,Retail,Disability,82,49526.25,425,82,3
+2025-12-01,Spain,Retail,Income Protection,99,105332.61,437,99,4
+2025-12-01,Spain,Retail,Critical Illness,65,48295.95,303,65,2
+2025-12-01,Spain,Retail,Health,113,59200.15,564,113,5
+2025-12-01,Spain,Retail,Vitality Bundle,41,49450.95,203,41,3
+2025-12-01,Spain,IFA,Life,71,69758.38,315,71,4
+2025-12-01,Spain,IFA,Disability,37,24034.23,162,37,2
+2025-12-01,Spain,IFA,Income Protection,49,55911.03,214,49,2
+2025-12-01,Spain,IFA,Critical Illness,27,22354.02,141,27,1
+2025-12-01,Spain,IFA,Health,43,24471.58,187,43,2
+2025-12-01,Spain,IFA,Vitality Bundle,19,25378.77,83,19,1
+2025-12-01,Spain,Direct & Banca,Life,32,28764.78,160,32,1
+2025-12-01,Spain,Direct & Banca,Disability,20,12178.87,104,20,1
+2025-12-01,Spain,Direct & Banca,Income Protection,25,25372.86,111,25,1
+2025-12-01,Spain,Direct & Banca,Critical Illness,16,12382.66,71,16,1
+2025-12-01,Spain,Direct & Banca,Health,23,12241.57,102,23,1
+2025-12-01,Spain,Direct & Banca,Vitality Bundle,10,12284.62,47,10,0
+2025-12-01,Netherlands,Retail,Life,77,69804.84,355,77,4
+2025-12-01,Netherlands,Retail,Disability,47,28462.75,222,47,1
+2025-12-01,Netherlands,Retail,Income Protection,58,60460.87,277,58,4
+2025-12-01,Netherlands,Retail,Critical Illness,36,28368.95,172,36,2
+2025-12-01,Netherlands,Retail,Health,63,32040.15,317,63,3
+2025-12-01,Netherlands,Retail,Vitality Bundle,23,29847.28,110,23,1
+2025-12-01,Netherlands,IFA,Life,38,35325.32,175,38,1
+2025-12-01,Netherlands,IFA,Disability,23,14946.14,110,23,1
+2025-12-01,Netherlands,IFA,Income Protection,24,25925.38,113,24,1
+2025-12-01,Netherlands,IFA,Critical Illness,15,12016.14,71,15,1
+2025-12-01,Netherlands,IFA,Health,26,14766.72,127,26,1
+2025-12-01,Netherlands,IFA,Vitality Bundle,11,15269.24,54,11,1
+2025-12-01,Netherlands,Direct & Banca,Life,19,16000.86,97,19,1
+2025-12-01,Netherlands,Direct & Banca,Disability,10,5663.92,50,10,0
+2025-12-01,Netherlands,Direct & Banca,Income Protection,14,14248.23,71,14,1
+2025-12-01,Netherlands,Direct & Banca,Critical Illness,7,5482.62,36,7,0
+2025-12-01,Netherlands,Direct & Banca,Health,15,8072.52,71,15,1
+2025-12-01,Netherlands,Direct & Banca,Vitality Bundle,6,7408.83,28,6,0
+2025-12-01,Italy,Retail,Life,55,48761.75,286,55,3
+2025-12-01,Italy,Retail,Disability,31,18527.52,149,31,1
+2025-12-01,Italy,Retail,Income Protection,38,39376.21,167,38,2
+2025-12-01,Italy,Retail,Critical Illness,20,14624.28,89,20,1
+2025-12-01,Italy,Retail,Health,37,19386.02,171,37,1
+2025-12-01,Italy,Retail,Vitality Bundle,18,22351.39,83,18,1
+2025-12-01,Italy,IFA,Life,26,25381.46,127,26,1
+2025-12-01,Italy,IFA,Disability,14,8603.98,71,14,1
+2025-12-01,Italy,IFA,Income Protection,17,19159.05,80,17,1
+2025-12-01,Italy,IFA,Critical Illness,9,7137.51,45,9,0
+2025-12-01,Italy,IFA,Health,17,9325.2,79,17,1
+2025-12-01,Italy,IFA,Vitality Bundle,7,9871.19,34,7,0
+2025-12-01,Italy,Direct & Banca,Life,15,12937.76,76,15,0
+2025-12-01,Italy,Direct & Banca,Disability,8,4796.47,35,8,0
+2025-12-01,Italy,Direct & Banca,Income Protection,9,8961.23,46,9,0
+2025-12-01,Italy,Direct & Banca,Critical Illness,6,4582.09,31,6,0
+2025-12-01,Italy,Direct & Banca,Health,10,4983.29,50,10,0
+2025-12-01,Italy,Direct & Banca,Vitality Bundle,4,5234.28,20,4,0
+2026-01-01,Germany,Retail,Life,202,177962.77,1035,202,13
+2026-01-01,Germany,Retail,Disability,105,62963.19,468,105,5
+2026-01-01,Germany,Retail,Income Protection,148,159680.62,699,148,6
+2026-01-01,Germany,Retail,Critical Illness,84,66837.56,385,84,3
+2026-01-01,Germany,Retail,Health,151,79548.99,701,151,8
+2026-01-01,Germany,Retail,Vitality Bundle,64,81765.16,316,64,3
+2026-01-01,Germany,IFA,Life,96,92950.11,462,96,4
+2026-01-01,Germany,IFA,Disability,50,31234.18,263,50,3
+2026-01-01,Germany,IFA,Income Protection,72,78842.43,345,72,2
+2026-01-01,Germany,IFA,Critical Illness,41,35156.94,196,41,1
+2026-01-01,Germany,IFA,Health,66,36298.06,331,66,2
+2026-01-01,Germany,IFA,Vitality Bundle,28,37766.09,132,28,1
+2026-01-01,Germany,Direct & Banca,Life,47,41859.57,229,47,2
+2026-01-01,Germany,Direct & Banca,Disability,27,15806.13,135,27,2
+2026-01-01,Germany,Direct & Banca,Income Protection,39,41405.53,179,39,2
+2026-01-01,Germany,Direct & Banca,Critical Illness,21,16452.86,102,21,1
+2026-01-01,Germany,Direct & Banca,Health,33,16798.95,153,33,2
+2026-01-01,Germany,Direct & Banca,Vitality Bundle,15,19132.0,76,15,0
+2026-01-01,France,Retail,Life,158,137940.71,800,158,5
+2026-01-01,France,Retail,Disability,91,54845.39,415,91,4
+2026-01-01,France,Retail,Income Protection,114,117344.61,560,114,5
+2026-01-01,France,Retail,Critical Illness,73,58242.7,350,73,5
+2026-01-01,France,Retail,Health,117,62930.14,513,117,4
+2026-01-01,France,Retail,Vitality Bundle,55,66329.7,263,55,2
+2026-01-01,France,IFA,Life,83,80460.94,372,83,3
+2026-01-01,France,IFA,Disability,45,27954.17,204,45,2
+2026-01-01,France,IFA,Income Protection,58,61509.45,278,58,4
+2026-01-01,France,IFA,Critical Illness,31,26671.53,148,31,2
+2026-01-01,France,IFA,Health,53,29238.15,246,53,2
+2026-01-01,France,IFA,Vitality Bundle,25,34091.19,125,25,1
+2026-01-01,France,Direct & Banca,Life,39,35244.85,174,39,2
+2026-01-01,France,Direct & Banca,Disability,21,12554.67,103,21,1
+2026-01-01,France,Direct & Banca,Income Protection,28,27743.07,126,28,1
+2026-01-01,France,Direct & Banca,Critical Illness,15,11723.16,72,15,1
+2026-01-01,France,Direct & Banca,Health,28,13962.28,143,28,1
+2026-01-01,France,Direct & Banca,Vitality Bundle,13,17085.73,57,13,1
+2026-01-01,Spain,Retail,Life,123,108557.1,564,123,8
+2026-01-01,Spain,Retail,Disability,69,39621.72,301,69,4
+2026-01-01,Spain,Retail,Income Protection,100,106146.91,482,100,4
+2026-01-01,Spain,Retail,Critical Illness,56,41956.36,287,56,4
+2026-01-01,Spain,Retail,Health,94,48574.5,466,94,5
+2026-01-01,Spain,Retail,Vitality Bundle,38,46379.57,186,38,2
+2026-01-01,Spain,IFA,Life,58,56302.55,256,58,3
+2026-01-01,Spain,IFA,Disability,31,19071.76,154,31,1
+2026-01-01,Spain,IFA,Income Protection,42,44388.12,195,42,2
+2026-01-01,Spain,IFA,Critical Illness,23,17969.82,103,23,1
+2026-01-01,Spain,IFA,Health,40,22960.46,185,40,2
+2026-01-01,Spain,IFA,Vitality Bundle,18,24553.36,86,18,1
+2026-01-01,Spain,Direct & Banca,Life,33,28200.68,153,33,1
+2026-01-01,Spain,Direct & Banca,Disability,18,10159.81,81,18,1
+2026-01-01,Spain,Direct & Banca,Income Protection,25,24982.85,119,25,1
+2026-01-01,Spain,Direct & Banca,Critical Illness,13,10212.26,60,13,1
+2026-01-01,Spain,Direct & Banca,Health,24,12175.41,117,24,1
+2026-01-01,Spain,Direct & Banca,Vitality Bundle,9,11827.86,45,9,0
+2026-01-01,Netherlands,Retail,Life,82,68343.41,369,82,3
+2026-01-01,Netherlands,Retail,Disability,42,25865.97,203,42,2
+2026-01-01,Netherlands,Retail,Income Protection,56,59546.77,279,56,2
+2026-01-01,Netherlands,Retail,Critical Illness,28,20862.71,123,28,2
+2026-01-01,Netherlands,Retail,Health,49,26053.74,232,49,2
+2026-01-01,Netherlands,Retail,Vitality Bundle,23,28251.92,107,23,1
+2026-01-01,Netherlands,IFA,Life,36,33538.71,185,36,2
+2026-01-01,Netherlands,IFA,Disability,18,11422.25,83,18,1
+2026-01-01,Netherlands,IFA,Income Protection,23,24767.49,112,23,1
+2026-01-01,Netherlands,IFA,Critical Illness,13,11202.25,63,13,1
+2026-01-01,Netherlands,IFA,Health,23,13551.61,113,23,1
+2026-01-01,Netherlands,IFA,Vitality Bundle,11,14864.9,50,11,1
+2026-01-01,Netherlands,Direct & Banca,Life,18,15212.01,82,18,1
+2026-01-01,Netherlands,Direct & Banca,Disability,10,6172.37,48,10,0
+2026-01-01,Netherlands,Direct & Banca,Income Protection,13,14036.68,61,13,1
+2026-01-01,Netherlands,Direct & Banca,Critical Illness,8,5959.52,40,8,0
+2026-01-01,Netherlands,Direct & Banca,Health,14,6931.8,63,14,1
+2026-01-01,Netherlands,Direct & Banca,Vitality Bundle,5,6333.81,24,5,0
+2026-01-01,Italy,Retail,Life,47,38999.8,230,47,2
+2026-01-01,Italy,Retail,Disability,27,16060.87,135,27,2
+2026-01-01,Italy,Retail,Income Protection,33,33649.41,146,33,2
+2026-01-01,Italy,Retail,Critical Illness,21,16427.48,107,21,1
+2026-01-01,Italy,Retail,Health,37,19386.67,163,37,2
+2026-01-01,Italy,Retail,Vitality Bundle,15,19336.19,70,15,0
+2026-01-01,Italy,IFA,Life,21,20266.13,103,21,1
+2026-01-01,Italy,IFA,Disability,12,7927.66,53,12,0
+2026-01-01,Italy,IFA,Income Protection,17,19104.26,89,17,1
+2026-01-01,Italy,IFA,Critical Illness,9,7242.99,47,9,0
+2026-01-01,Italy,IFA,Health,15,8426.02,75,15,0
+2026-01-01,Italy,IFA,Vitality Bundle,7,9423.56,34,7,0
+2026-01-01,Italy,Direct & Banca,Life,12,10149.86,60,12,1
+2026-01-01,Italy,Direct & Banca,Disability,6,3392.22,28,6,0
+2026-01-01,Italy,Direct & Banca,Income Protection,8,7898.11,38,8,0
+2026-01-01,Italy,Direct & Banca,Critical Illness,5,3661.25,24,5,0
+2026-01-01,Italy,Direct & Banca,Health,9,4537.77,42,9,1
+2026-01-01,Italy,Direct & Banca,Vitality Bundle,3,3618.08,14,3,0
+2026-02-01,Germany,Retail,Life,240,200230.74,1107,240,11
+2026-02-01,Germany,Retail,Disability,118,68371.98,552,118,4
+2026-02-01,Germany,Retail,Income Protection,151,163114.45,703,151,11
+2026-02-01,Germany,Retail,Critical Illness,87,63778.15,454,87,5
+2026-02-01,Germany,Retail,Health,145,74448.61,658,145,9
+2026-02-01,Germany,Retail,Vitality Bundle,61,73436.18,268,61,4
+2026-02-01,Germany,IFA,Life,107,103755.74,562,107,6
+2026-02-01,Germany,IFA,Disability,50,31700.9,262,50,2
+2026-02-01,Germany,IFA,Income Protection,71,76641.01,337,71,3
+2026-02-01,Germany,IFA,Critical Illness,40,33586.89,204,40,2
+2026-02-01,Germany,IFA,Health,63,35674.48,291,63,2
+2026-02-01,Germany,IFA,Vitality Bundle,28,37279.44,126,28,2
+2026-02-01,Germany,Direct & Banca,Life,48,42406.27,252,48,2
+2026-02-01,Germany,Direct & Banca,Disability,28,17101.64,129,28,2
+2026-02-01,Germany,Direct & Banca,Income Protection,34,36306.67,157,34,1
+2026-02-01,Germany,Direct & Banca,Critical Illness,21,16720.67,108,21,1
+2026-02-01,Germany,Direct & Banca,Health,40,20865.65,203,40,2
+2026-02-01,Germany,Direct & Banca,Vitality Bundle,16,21019.52,84,16,1
+2026-02-01,France,Retail,Life,182,155704.74,885,182,7
+2026-02-01,France,Retail,Disability,97,56382.5,451,97,4
+2026-02-01,France,Retail,Income Protection,141,145248.17,634,141,8
+2026-02-01,France,Retail,Critical Illness,78,61594.3,350,78,2
+2026-02-01,France,Retail,Health,128,65096.97,653,128,8
+2026-02-01,France,Retail,Vitality Bundle,56,67651.48,273,56,4
+2026-02-01,France,IFA,Life,83,78965.73,417,83,3
+2026-02-01,France,IFA,Disability,42,28021.67,186,42,2
+2026-02-01,France,IFA,Income Protection,59,63707.0,302,59,3
+2026-02-01,France,IFA,Critical Illness,35,29769.64,173,35,2
+2026-02-01,France,IFA,Health,57,30843.6,248,57,4
+2026-02-01,France,IFA,Vitality Bundle,23,32653.71,101,23,1
+2026-02-01,France,Direct & Banca,Life,44,39997.25,226,44,2
+2026-02-01,France,Direct & Banca,Disability,26,15688.34,118,26,2
+2026-02-01,France,Direct & Banca,Income Protection,30,30625.77,144,30,2
+2026-02-01,France,Direct & Banca,Critical Illness,19,15065.61,95,19,1
+2026-02-01,France,Direct & Banca,Health,28,14100.99,127,28,2
+2026-02-01,France,Direct & Banca,Vitality Bundle,12,15221.37,60,12,0
+2026-02-01,Spain,Retail,Life,147,126090.09,676,147,7
+2026-02-01,Spain,Retail,Disability,78,46501.88,357,78,4
+2026-02-01,Spain,Retail,Income Protection,108,111144.84,552,108,4
+2026-02-01,Spain,Retail,Critical Illness,51,39785.35,268,51,2
+2026-02-01,Spain,Retail,Health,97,51662.5,423,97,6
+2026-02-01,Spain,Retail,Vitality Bundle,39,51238.79,170,39,3
+2026-02-01,Spain,IFA,Life,63,58158.27,302,63,3
+2026-02-01,Spain,IFA,Disability,34,20672.18,155,34,2
+2026-02-01,Spain,IFA,Income Protection,44,49491.37,200,44,2
+2026-02-01,Spain,IFA,Critical Illness,26,22142.75,117,26,1
+2026-02-01,Spain,IFA,Health,44,25518.46,230,44,3
+2026-02-01,Spain,IFA,Vitality Bundle,19,25585.3,87,19,1
+2026-02-01,Spain,Direct & Banca,Life,34,29966.46,177,34,1
+2026-02-01,Spain,Direct & Banca,Disability,18,10412.44,81,18,1
+2026-02-01,Spain,Direct & Banca,Income Protection,24,24999.67,125,24,1
+2026-02-01,Spain,Direct & Banca,Critical Illness,13,10205.93,62,13,1
+2026-02-01,Spain,Direct & Banca,Health,22,11758.87,97,22,1
+2026-02-01,Spain,Direct & Banca,Vitality Bundle,9,11241.98,43,9,0
+2026-02-01,Netherlands,Retail,Life,81,71968.43,409,81,4
+2026-02-01,Netherlands,Retail,Disability,42,25255.08,186,42,3
+2026-02-01,Netherlands,Retail,Income Protection,59,58482.28,303,59,3
+2026-02-01,Netherlands,Retail,Critical Illness,31,23616.11,151,31,2
+2026-02-01,Netherlands,Retail,Health,56,30429.68,273,56,3
+2026-02-01,Netherlands,Retail,Vitality Bundle,25,32798.6,118,25,1
+2026-02-01,Netherlands,IFA,Life,33,32150.39,167,33,2
+2026-02-01,Netherlands,IFA,Disability,19,11876.19,86,19,1
+2026-02-01,Netherlands,IFA,Income Protection,26,27816.27,133,26,1
+2026-02-01,Netherlands,IFA,Critical Illness,15,12008.03,72,15,1
+2026-02-01,Netherlands,IFA,Health,25,13346.07,111,25,1
+2026-02-01,Netherlands,IFA,Vitality Bundle,11,14932.44,53,11,0
+2026-02-01,Netherlands,Direct & Banca,Life,19,16108.01,90,19,1
+2026-02-01,Netherlands,Direct & Banca,Disability,11,6701.09,57,11,0
+2026-02-01,Netherlands,Direct & Banca,Income Protection,14,13751.95,62,14,1
+2026-02-01,Netherlands,Direct & Banca,Critical Illness,8,5957.45,35,8,0
+2026-02-01,Netherlands,Direct & Banca,Health,13,6542.5,60,13,1
+2026-02-01,Netherlands,Direct & Banca,Vitality Bundle,6,7631.8,27,6,0
+2026-02-01,Italy,Retail,Life,53,46474.11,233,53,2
+2026-02-01,Italy,Retail,Disability,28,16302.88,136,28,1
+2026-02-01,Italy,Retail,Income Protection,37,38302.35,183,37,1
+2026-02-01,Italy,Retail,Critical Illness,22,16342.83,104,22,1
+2026-02-01,Italy,Retail,Health,39,20507.24,201,39,2
+2026-02-01,Italy,Retail,Vitality Bundle,16,21142.17,76,16,1
+2026-02-01,Italy,IFA,Life,26,25617.56,129,26,1
+2026-02-01,Italy,IFA,Disability,13,8304.63,57,13,1
+2026-02-01,Italy,IFA,Income Protection,16,17909.88,76,16,1
+2026-02-01,Italy,IFA,Critical Illness,10,7945.27,47,10,1
+2026-02-01,Italy,IFA,Health,18,9604.96,94,18,1
+2026-02-01,Italy,IFA,Vitality Bundle,7,9857.16,32,7,0
+2026-02-01,Italy,Direct & Banca,Life,13,11122.02,61,13,1
+2026-02-01,Italy,Direct & Banca,Disability,6,3434.22,30,6,0
+2026-02-01,Italy,Direct & Banca,Income Protection,9,9276.2,44,9,0
+2026-02-01,Italy,Direct & Banca,Critical Illness,5,3739.72,23,5,0
+2026-02-01,Italy,Direct & Banca,Health,8,4025.06,39,8,0
+2026-02-01,Italy,Direct & Banca,Vitality Bundle,4,5249.75,18,4,0
+2026-03-01,Germany,Retail,Life,221,194715.68,979,221,11
+2026-03-01,Germany,Retail,Disability,118,71597.13,571,118,7
+2026-03-01,Germany,Retail,Income Protection,170,171586.51,776,170,7
+2026-03-01,Germany,Retail,Critical Illness,89,65666.69,409,89,6
+2026-03-01,Germany,Retail,Health,167,85568.62,730,167,7
+2026-03-01,Germany,Retail,Vitality Bundle,60,79256.16,279,60,4
+2026-03-01,Germany,IFA,Life,101,93851.59,472,101,7
+2026-03-01,Germany,IFA,Disability,58,37716.21,286,58,2
+2026-03-01,Germany,IFA,Income Protection,70,77845.06,351,70,3
+2026-03-01,Germany,IFA,Critical Illness,44,35090.03,218,44,2
+2026-03-01,Germany,IFA,Health,74,42712.85,327,74,4
+2026-03-01,Germany,IFA,Vitality Bundle,27,36677.9,129,27,1
+2026-03-01,Germany,Direct & Banca,Life,58,51632.9,275,58,4
+2026-03-01,Germany,Direct & Banca,Disability,27,16522.28,121,27,2
+2026-03-01,Germany,Direct & Banca,Income Protection,40,39686.79,183,40,2
+2026-03-01,Germany,Direct & Banca,Critical Illness,22,16757.36,116,22,1
+2026-03-01,Germany,Direct & Banca,Health,39,20471.22,202,39,2
+2026-03-01,Germany,Direct & Banca,Vitality Bundle,15,18938.89,69,15,1
+2026-03-01,France,Retail,Life,185,157926.44,820,185,8
+2026-03-01,France,Retail,Disability,94,54221.3,464,94,4
+2026-03-01,France,Retail,Income Protection,121,120259.48,602,121,4
+2026-03-01,France,Retail,Critical Illness,75,57080.15,378,75,3
+2026-03-01,France,Retail,Health,123,61667.4,564,123,5
+2026-03-01,France,Retail,Vitality Bundle,52,62710.78,242,52,2
+2026-03-01,France,IFA,Life,81,73292.18,388,81,5
+2026-03-01,France,IFA,Disability,41,24959.49,198,41,2
+2026-03-01,France,IFA,Income Protection,60,67363.09,269,60,3
+2026-03-01,France,IFA,Critical Illness,33,26578.37,148,33,2
+2026-03-01,France,IFA,Health,59,33245.35,258,59,4
+2026-03-01,France,IFA,Vitality Bundle,24,31456.67,108,24,2
+2026-03-01,France,Direct & Banca,Life,43,37243.84,198,43,3
+2026-03-01,France,Direct & Banca,Disability,24,13780.08,121,24,2
+2026-03-01,France,Direct & Banca,Income Protection,32,34320.79,156,32,2
+2026-03-01,France,Direct & Banca,Critical Illness,18,14075.05,80,18,1
+2026-03-01,France,Direct & Banca,Health,28,14524.09,137,28,1
+2026-03-01,France,Direct & Banca,Vitality Bundle,12,15525.13,56,12,0
+2026-03-01,Spain,Retail,Life,131,117589.15,590,131,6
+2026-03-01,Spain,Retail,Disability,80,48580.27,379,80,4
+2026-03-01,Spain,Retail,Income Protection,100,104245.01,472,100,7
+2026-03-01,Spain,Retail,Critical Illness,55,41134.19,247,55,3
+2026-03-01,Spain,Retail,Health,105,54247.03,474,105,5
+2026-03-01,Spain,Retail,Vitality Bundle,40,51219.57,207,40,3
+2026-03-01,Spain,IFA,Life,65,60992.35,304,65,3
+2026-03-01,Spain,IFA,Disability,36,23677.9,183,36,2
+2026-03-01,Spain,IFA,Income Protection,42,44892.82,189,42,3
+2026-03-01,Spain,IFA,Critical Illness,25,20508.29,116,25,1
+2026-03-01,Spain,IFA,Health,48,28000.73,212,48,3
+2026-03-01,Spain,IFA,Vitality Bundle,17,22316.35,87,17,1
+2026-03-01,Spain,Direct & Banca,Life,33,28933.74,167,33,2
+2026-03-01,Spain,Direct & Banca,Disability,18,10694.63,79,18,1
+2026-03-01,Spain,Direct & Banca,Income Protection,27,27628.48,118,27,1
+2026-03-01,Spain,Direct & Banca,Critical Illness,13,9394.02,57,13,1
+2026-03-01,Spain,Direct & Banca,Health,22,11204.55,107,22,1
+2026-03-01,Spain,Direct & Banca,Vitality Bundle,9,11570.6,40,9,0
+2026-03-01,Netherlands,Retail,Life,86,77556.02,431,86,5
+2026-03-01,Netherlands,Retail,Disability,43,24908.59,209,43,2
+2026-03-01,Netherlands,Retail,Income Protection,58,60710.7,278,58,2
+2026-03-01,Netherlands,Retail,Critical Illness,31,24560.08,139,31,1
+2026-03-01,Netherlands,Retail,Health,61,32259.45,312,61,2
+2026-03-01,Netherlands,Retail,Vitality Bundle,22,28333.55,105,22,1
+2026-03-01,Netherlands,IFA,Life,39,35122.42,181,39,2
+2026-03-01,Netherlands,IFA,Disability,20,13112.21,93,20,1
+2026-03-01,Netherlands,IFA,Income Protection,24,26722.74,113,24,1
+2026-03-01,Netherlands,IFA,Critical Illness,14,11130.14,65,14,1
+2026-03-01,Netherlands,IFA,Health,27,14764.03,129,27,1
+2026-03-01,Netherlands,IFA,Vitality Bundle,11,14769.67,48,11,1
+2026-03-01,Netherlands,Direct & Banca,Life,20,16726.91,96,20,1
+2026-03-01,Netherlands,Direct & Banca,Disability,10,6036.46,44,10,1
+2026-03-01,Netherlands,Direct & Banca,Income Protection,15,15395.83,78,15,1
+2026-03-01,Netherlands,Direct & Banca,Critical Illness,7,5305.34,32,7,0
+2026-03-01,Netherlands,Direct & Banca,Health,12,6323.42,54,12,1
+2026-03-01,Netherlands,Direct & Banca,Vitality Bundle,5,6201.43,23,5,0
+2026-03-01,Italy,Retail,Life,53,45968.13,242,53,2
+2026-03-01,Italy,Retail,Disability,32,19443.05,159,32,1
+2026-03-01,Italy,Retail,Income Protection,41,43283.32,187,41,2
+2026-03-01,Italy,Retail,Critical Illness,19,14401.24,97,19,1
+2026-03-01,Italy,Retail,Health,41,21978.57,191,41,2
+2026-03-01,Italy,Retail,Vitality Bundle,15,18910.58,67,15,1
+2026-03-01,Italy,IFA,Life,22,20218.44,98,22,1
+2026-03-01,Italy,IFA,Disability,12,7397.6,56,12,0
+2026-03-01,Italy,IFA,Income Protection,17,19492.95,85,17,1
+2026-03-01,Italy,IFA,Critical Illness,10,8453.72,45,10,0
+2026-03-01,Italy,IFA,Health,15,8125.01,66,15,1
+2026-03-01,Italy,IFA,Vitality Bundle,7,9995.77,32,7,0
+2026-03-01,Italy,Direct & Banca,Life,13,11465.6,66,13,1
+2026-03-01,Italy,Direct & Banca,Disability,7,4188.75,32,7,0
+2026-03-01,Italy,Direct & Banca,Income Protection,9,9176.14,45,9,1
+2026-03-01,Italy,Direct & Banca,Critical Illness,5,3812.36,24,5,0
+2026-03-01,Italy,Direct & Banca,Health,9,4513.93,40,9,0
+2026-03-01,Italy,Direct & Banca,Vitality Bundle,4,5014.21,18,4,0
+2026-04-01,Germany,Retail,Life,231,191745.83,1019,231,13
+2026-04-01,Germany,Retail,Disability,134,78520.7,591,134,9
+2026-04-01,Germany,Retail,Income Protection,156,156937.57,804,156,9
+2026-04-01,Germany,Retail,Critical Illness,87,67926.07,396,87,5
+2026-04-01,Germany,Retail,Health,159,80157.65,781,159,9
+2026-04-01,Germany,Retail,Vitality Bundle,63,79757.95,290,63,4
+2026-04-01,Germany,IFA,Life,90,81161.98,464,90,4
+2026-04-01,Germany,IFA,Disability,52,32416.37,263,52,2
+2026-04-01,Germany,IFA,Income Protection,67,77799.02,310,67,4
+2026-04-01,Germany,IFA,Critical Illness,44,36613.89,202,44,2
+2026-04-01,Germany,IFA,Health,75,40561.17,347,75,5
+2026-04-01,Germany,IFA,Vitality Bundle,30,42731.16,133,30,2
+2026-04-01,Germany,Direct & Banca,Life,51,44223.38,224,51,3
+2026-04-01,Germany,Direct & Banca,Disability,32,18457.81,155,32,2
+2026-04-01,Germany,Direct & Banca,Income Protection,41,41484.24,209,41,1
+2026-04-01,Germany,Direct & Banca,Critical Illness,23,17275.13,113,23,1
+2026-04-01,Germany,Direct & Banca,Health,41,20818.27,197,41,2
+2026-04-01,Germany,Direct & Banca,Vitality Bundle,17,21656.27,86,17,1
+2026-04-01,France,Retail,Life,170,151874.18,855,170,9
+2026-04-01,France,Retail,Disability,109,65695.24,561,109,4
+2026-04-01,France,Retail,Income Protection,134,134577.73,645,134,9
+2026-04-01,France,Retail,Critical Illness,68,52405.25,299,68,4
+2026-04-01,France,Retail,Health,122,64709.15,539,122,6
+2026-04-01,France,Retail,Vitality Bundle,55,72348.58,262,55,3
+2026-04-01,France,IFA,Life,88,85007.72,397,88,5
+2026-04-01,France,IFA,Disability,41,27311.69,184,41,2
+2026-04-01,France,IFA,Income Protection,60,69647.65,294,60,3
+2026-04-01,France,IFA,Critical Illness,32,26613.02,140,32,1
+2026-04-01,France,IFA,Health,58,34074.16,300,58,3
+2026-04-01,France,IFA,Vitality Bundle,26,35903.7,132,26,1
+2026-04-01,France,Direct & Banca,Life,43,36254.04,197,43,3
+2026-04-01,France,Direct & Banca,Disability,25,14542.41,129,25,1
+2026-04-01,France,Direct & Banca,Income Protection,33,32766.17,167,33,2
+2026-04-01,France,Direct & Banca,Critical Illness,18,13665.27,93,18,1
+2026-04-01,France,Direct & Banca,Health,29,15131.18,130,29,1
+2026-04-01,France,Direct & Banca,Vitality Bundle,14,16823.34,73,14,1
+2026-04-01,Spain,Retail,Life,129,107944.91,580,129,7
+2026-04-01,Spain,Retail,Disability,78,46839.51,347,78,3
+2026-04-01,Spain,Retail,Income Protection,105,112744.38,548,105,4
+2026-04-01,Spain,Retail,Critical Illness,59,44710.95,260,59,2
+2026-04-01,Spain,Retail,Health,104,52081.95,528,104,3
+2026-04-01,Spain,Retail,Vitality Bundle,41,53177.24,197,41,2
+2026-04-01,Spain,IFA,Life,65,63014.93,335,65,3
+2026-04-01,Spain,IFA,Disability,37,22917.61,167,37,2
+2026-04-01,Spain,IFA,Income Protection,49,57135.92,226,49,2
+2026-04-01,Spain,IFA,Critical Illness,28,23156.99,143,28,2
+2026-04-01,Spain,IFA,Health,48,27669.07,225,48,2
+2026-04-01,Spain,IFA,Vitality Bundle,18,23615.63,87,18,1
+2026-04-01,Spain,Direct & Banca,Life,35,30263.22,154,35,1
+2026-04-01,Spain,Direct & Banca,Disability,17,10378.41,79,17,1
+2026-04-01,Spain,Direct & Banca,Income Protection,22,22630.47,116,22,1
+2026-04-01,Spain,Direct & Banca,Critical Illness,13,10029.93,58,13,1
+2026-04-01,Spain,Direct & Banca,Health,25,13354.33,115,25,1
+2026-04-01,Spain,Direct & Banca,Vitality Bundle,11,13892.0,53,11,1
+2026-04-01,Netherlands,Retail,Life,82,68041.39,416,82,4
+2026-04-01,Netherlands,Retail,Disability,48,28680.21,217,48,2
+2026-04-01,Netherlands,Retail,Income Protection,52,52144.08,267,52,3
+2026-04-01,Netherlands,Retail,Critical Illness,29,21735.63,132,29,1
+2026-04-01,Netherlands,Retail,Health,53,28305.03,245,53,2
+2026-04-01,Netherlands,Retail,Vitality Bundle,23,29839.58,106,23,2
+2026-04-01,Netherlands,IFA,Life,36,32730.75,166,36,1
+2026-04-01,Netherlands,IFA,Disability,20,12470.09,96,20,1
+2026-04-01,Netherlands,IFA,Income Protection,28,31952.07,146,28,2
+2026-04-01,Netherlands,IFA,Critical Illness,16,12707.15,72,16,1
+2026-04-01,Netherlands,IFA,Health,23,13427.12,105,23,1
+2026-04-01,Netherlands,IFA,Vitality Bundle,10,13198.06,46,10,0
+2026-04-01,Netherlands,Direct & Banca,Life,20,17097.47,103,20,1
+2026-04-01,Netherlands,Direct & Banca,Disability,11,6409.22,55,11,1
+2026-04-01,Netherlands,Direct & Banca,Income Protection,14,14983.08,72,14,1
+2026-04-01,Netherlands,Direct & Banca,Critical Illness,8,6011.5,41,8,0
+2026-04-01,Netherlands,Direct & Banca,Health,14,7626.2,71,14,0
+2026-04-01,Netherlands,Direct & Banca,Vitality Bundle,6,7227.1,31,6,0
+2026-04-01,Italy,Retail,Life,53,44593.91,260,53,3
+2026-04-01,Italy,Retail,Disability,30,18212.5,139,30,2
+2026-04-01,Italy,Retail,Income Protection,36,38823.26,161,36,1
+2026-04-01,Italy,Retail,Critical Illness,23,17461.15,100,23,1
+2026-04-01,Italy,Retail,Health,40,20340.68,182,40,2
+2026-04-01,Italy,Retail,Vitality Bundle,15,18573.59,70,15,1
+2026-04-01,Italy,IFA,Life,24,21758.81,113,24,1
+2026-04-01,Italy,IFA,Disability,14,8510.5,67,14,1
+2026-04-01,Italy,IFA,Income Protection,16,17853.79,76,16,1
+2026-04-01,Italy,IFA,Critical Illness,10,8168.96,50,10,1
+2026-04-01,Italy,IFA,Health,15,8619.26,66,15,1
+2026-04-01,Italy,IFA,Vitality Bundle,7,9666.24,36,7,0
+2026-04-01,Italy,Direct & Banca,Life,12,10652.25,53,12,1
+2026-04-01,Italy,Direct & Banca,Disability,6,3524.01,27,6,0
+2026-04-01,Italy,Direct & Banca,Income Protection,9,9538.7,44,9,0
+2026-04-01,Italy,Direct & Banca,Critical Illness,5,3936.95,26,5,0
+2026-04-01,Italy,Direct & Banca,Health,9,4461.31,43,9,0
+2026-04-01,Italy,Direct & Banca,Vitality Bundle,4,5061.39,18,4,0
+2026-05-01,Germany,Retail,Life,205,185142.41,934,205,7
+2026-05-01,Germany,Retail,Disability,134,80440.81,594,134,5
+2026-05-01,Germany,Retail,Income Protection,159,165721.05,777,159,6
+2026-05-01,Germany,Retail,Critical Illness,90,65438.32,412,90,3
+2026-05-01,Germany,Retail,Health,171,86595.92,879,171,8
+2026-05-01,Germany,Retail,Vitality Bundle,73,92716.94,320,73,3
+2026-05-01,Germany,IFA,Life,105,95949.22,514,105,4
+2026-05-01,Germany,IFA,Disability,57,35510.98,296,57,2
+2026-05-01,Germany,IFA,Income Protection,73,81421.88,375,73,4
+2026-05-01,Germany,IFA,Critical Illness,42,34586.86,208,42,2
+2026-05-01,Germany,IFA,Health,75,43995.88,337,75,5
+2026-05-01,Germany,IFA,Vitality Bundle,28,39595.65,134,28,1
+2026-05-01,Germany,Direct & Banca,Life,58,49392.13,254,58,2
+2026-05-01,Germany,Direct & Banca,Disability,28,16845.58,133,28,2
+2026-05-01,Germany,Direct & Banca,Income Protection,39,40681.27,193,39,3
+2026-05-01,Germany,Direct & Banca,Critical Illness,22,16104.75,108,22,1
+2026-05-01,Germany,Direct & Banca,Health,39,19857.2,203,39,3
+2026-05-01,Germany,Direct & Banca,Vitality Bundle,15,19745.68,70,15,1
+2026-05-01,France,Retail,Life,177,156239.04,872,177,10
+2026-05-01,France,Retail,Disability,105,64068.12,505,105,4
+2026-05-01,France,Retail,Income Protection,124,131415.56,630,124,5
+2026-05-01,France,Retail,Critical Illness,73,58091.58,331,73,2
+2026-05-01,France,Retail,Health,124,64195.81,631,124,8
+2026-05-01,France,Retail,Vitality Bundle,57,70277.64,249,57,4
+2026-05-01,France,IFA,Life,86,82149.85,438,86,3
+2026-05-01,France,IFA,Disability,41,25646.13,210,41,2
+2026-05-01,France,IFA,Income Protection,57,63803.01,298,57,2
+2026-05-01,France,IFA,Critical Illness,32,25931.8,151,32,1
+2026-05-01,France,IFA,Health,55,32186.64,267,55,3
+2026-05-01,France,IFA,Vitality Bundle,23,31167.07,113,23,1
+2026-05-01,France,Direct & Banca,Life,46,41923.36,226,46,3
+2026-05-01,France,Direct & Banca,Disability,24,13862.4,105,24,2
+2026-05-01,France,Direct & Banca,Income Protection,33,32790.44,155,33,2
+2026-05-01,France,Direct & Banca,Critical Illness,17,13164.38,78,17,1
+2026-05-01,France,Direct & Banca,Health,29,15156.85,143,29,1
+2026-05-01,France,Direct & Banca,Vitality Bundle,14,17544.7,72,14,0
+2026-05-01,Spain,Retail,Life,147,128957.0,739,147,10
+2026-05-01,Spain,Retail,Disability,75,42137.28,355,75,4
+2026-05-01,Spain,Retail,Income Protection,108,106649.98,513,108,4
+2026-05-01,Spain,Retail,Critical Illness,55,42239.23,242,55,4
+2026-05-01,Spain,Retail,Health,97,48664.24,433,97,4
+2026-05-01,Spain,Retail,Vitality Bundle,42,51780.37,206,42,3
+2026-05-01,Spain,IFA,Life,69,62158.7,315,69,3
+2026-05-01,Spain,IFA,Disability,39,25605.48,194,39,2
+2026-05-01,Spain,IFA,Income Protection,52,57404.21,230,52,2
+2026-05-01,Spain,IFA,Critical Illness,26,20457.46,131,26,1
+2026-05-01,Spain,IFA,Health,48,28268.62,249,48,3
+2026-05-01,Spain,IFA,Vitality Bundle,20,26095.92,97,20,1
+2026-05-01,Spain,Direct & Banca,Life,34,29745.1,156,34,2
+2026-05-01,Spain,Direct & Banca,Disability,18,10286.54,88,18,1
+2026-05-01,Spain,Direct & Banca,Income Protection,23,24462.88,103,23,1
+2026-05-01,Spain,Direct & Banca,Critical Illness,14,10601.11,73,14,0
+2026-05-01,Spain,Direct & Banca,Health,23,12505.41,103,23,1
+2026-05-01,Spain,Direct & Banca,Vitality Bundle,11,14404.26,53,11,1
+2026-05-01,Netherlands,Retail,Life,83,70366.84,426,83,3
+2026-05-01,Netherlands,Retail,Disability,49,27657.4,223,49,3
+2026-05-01,Netherlands,Retail,Income Protection,60,64076.38,279,60,3
+2026-05-01,Netherlands,Retail,Critical Illness,33,24125.92,157,33,2
+2026-05-01,Netherlands,Retail,Health,60,30148.08,312,60,3
+2026-05-01,Netherlands,Retail,Vitality Bundle,26,31565.89,132,26,1
+2026-05-01,Netherlands,IFA,Life,36,35219.57,176,36,1
+2026-05-01,Netherlands,IFA,Disability,20,13300.04,95,20,1
+2026-05-01,Netherlands,IFA,Income Protection,25,26682.33,114,25,1
+2026-05-01,Netherlands,IFA,Critical Illness,16,13562.01,74,16,1
+2026-05-01,Netherlands,IFA,Health,26,14876.62,134,26,1
+2026-05-01,Netherlands,IFA,Vitality Bundle,12,15534.18,57,12,1
+2026-05-01,Netherlands,Direct & Banca,Life,19,16266.04,84,19,1
+2026-05-01,Netherlands,Direct & Banca,Disability,10,5735.46,51,10,1
+2026-05-01,Netherlands,Direct & Banca,Income Protection,14,14897.9,66,14,1
+2026-05-01,Netherlands,Direct & Banca,Critical Illness,8,6235.83,41,8,0
+2026-05-01,Netherlands,Direct & Banca,Health,12,6438.96,53,12,1
+2026-05-01,Netherlands,Direct & Banca,Vitality Bundle,6,7456.1,27,6,0
+2026-05-01,Italy,Retail,Life,55,49111.28,270,55,3
+2026-05-01,Italy,Retail,Disability,27,16431.12,136,27,2
+2026-05-01,Italy,Retail,Income Protection,36,36066.14,185,36,1
+2026-05-01,Italy,Retail,Critical Illness,20,15490.04,90,20,1
+2026-05-01,Italy,Retail,Health,40,21335.25,209,40,1
+2026-05-01,Italy,Retail,Vitality Bundle,17,21448.87,88,17,1
+2026-05-01,Italy,IFA,Life,23,20673.43,106,23,1
+2026-05-01,Italy,IFA,Disability,14,9295.56,71,14,1
+2026-05-01,Italy,IFA,Income Protection,17,18630.04,88,17,1
+2026-05-01,Italy,IFA,Critical Illness,11,9434.0,54,11,0
+2026-05-01,Italy,IFA,Health,17,9765.41,85,17,1
+2026-05-01,Italy,IFA,Vitality Bundle,7,9600.03,37,7,0
+2026-05-01,Italy,Direct & Banca,Life,12,10212.26,53,12,1
+2026-05-01,Italy,Direct & Banca,Disability,8,4530.58,40,8,0
+2026-05-01,Italy,Direct & Banca,Income Protection,10,10162.46,47,10,0
+2026-05-01,Italy,Direct & Banca,Critical Illness,6,4414.47,29,6,0
+2026-05-01,Italy,Direct & Banca,Health,8,4046.66,41,8,1
+2026-05-01,Italy,Direct & Banca,Vitality Bundle,4,4843.6,20,4,0
+2026-06-01,Germany,Retail,Life,247,216117.71,1289,247,11
+2026-06-01,Germany,Retail,Disability,121,69845.2,565,121,5
+2026-06-01,Germany,Retail,Income Protection,192,196651.67,905,192,8
+2026-06-01,Germany,Retail,Critical Illness,102,75107.46,529,102,6
+2026-06-01,Germany,Retail,Health,166,87866.26,842,166,12
+2026-06-01,Germany,Retail,Vitality Bundle,71,85927.87,342,71,4
+2026-06-01,Germany,IFA,Life,98,88796.9,476,98,5
+2026-06-01,Germany,IFA,Disability,54,35872.17,236,54,2
+2026-06-01,Germany,IFA,Income Protection,87,95217.1,407,87,6
+2026-06-01,Germany,IFA,Critical Illness,40,33942.08,183,40,2
+2026-06-01,Germany,IFA,Health,78,44163.64,388,78,5
+2026-06-01,Germany,IFA,Vitality Bundle,33,44458.39,158,33,2
+2026-06-01,Germany,Direct & Banca,Life,56,48644.64,278,56,3
+2026-06-01,Germany,Direct & Banca,Disability,29,16683.43,138,29,2
+2026-06-01,Germany,Direct & Banca,Income Protection,39,38561.61,203,39,1
+2026-06-01,Germany,Direct & Banca,Critical Illness,24,19101.06,117,24,1
+2026-06-01,Germany,Direct & Banca,Health,37,19474.66,191,37,1
+2026-06-01,Germany,Direct & Banca,Vitality Bundle,18,23286.85,81,18,1
+2026-06-01,France,Retail,Life,201,174699.51,1003,201,9
+2026-06-01,France,Retail,Disability,115,68166.32,504,115,4
+2026-06-01,France,Retail,Income Protection,142,152328.9,692,142,6
+2026-06-01,France,Retail,Critical Illness,76,57526.97,397,76,4
+2026-06-01,France,Retail,Health,146,74424.71,669,146,7
+2026-06-01,France,Retail,Vitality Bundle,54,69507.78,258,54,2
+2026-06-01,France,IFA,Life,91,86872.33,419,91,5
+2026-06-01,France,IFA,Disability,48,31669.41,228,48,2
+2026-06-01,France,IFA,Income Protection,65,75710.68,303,65,3
+2026-06-01,France,IFA,Critical Illness,38,30630.48,199,38,1
+2026-06-01,France,IFA,Health,66,36505.45,300,66,2
+2026-06-01,France,IFA,Vitality Bundle,28,37497.55,144,28,1
+2026-06-01,France,Direct & Banca,Life,45,38567.72,208,45,2
+2026-06-01,France,Direct & Banca,Disability,26,15481.94,115,26,1
+2026-06-01,France,Direct & Banca,Income Protection,33,33437.98,173,33,1
+2026-06-01,France,Direct & Banca,Critical Illness,19,14964.7,89,19,1
+2026-06-01,France,Direct & Banca,Health,31,16435.89,145,31,2
+2026-06-01,France,Direct & Banca,Vitality Bundle,14,17446.49,66,14,1
+2026-06-01,Spain,Retail,Life,140,123932.86,688,140,7
+2026-06-01,Spain,Retail,Disability,88,51086.89,410,88,4
+2026-06-01,Spain,Retail,Income Protection,111,114295.15,496,111,7
+2026-06-01,Spain,Retail,Critical Illness,65,49577.02,323,65,2
+2026-06-01,Spain,Retail,Health,117,60243.93,588,117,7
+2026-06-01,Spain,Retail,Vitality Bundle,42,54741.44,217,42,2
+2026-06-01,Spain,IFA,Life,63,60977.66,301,63,2
+2026-06-01,Spain,IFA,Disability,40,25874.24,198,40,2
+2026-06-01,Spain,IFA,Income Protection,50,55842.19,253,50,2
+2026-06-01,Spain,IFA,Critical Illness,28,22874.91,127,28,1
+2026-06-01,Spain,IFA,Health,43,24639.82,192,43,2
+2026-06-01,Spain,IFA,Vitality Bundle,19,27050.01,86,19,1
+2026-06-01,Spain,Direct & Banca,Life,40,34913.86,186,40,2
+2026-06-01,Spain,Direct & Banca,Disability,20,11878.02,93,20,1
+2026-06-01,Spain,Direct & Banca,Income Protection,26,25836.66,133,26,1
+2026-06-01,Spain,Direct & Banca,Critical Illness,14,10571.25,69,14,1
+2026-06-01,Spain,Direct & Banca,Health,23,11605.46,111,23,1
+2026-06-01,Spain,Direct & Banca,Vitality Bundle,11,13522.44,51,11,1
+2026-06-01,Netherlands,Retail,Life,79,66612.54,395,79,5
+2026-06-01,Netherlands,Retail,Disability,47,27895.89,227,47,3
+2026-06-01,Netherlands,Retail,Income Protection,57,56710.09,292,57,2
+2026-06-01,Netherlands,Retail,Critical Illness,36,27794.12,183,36,2
+2026-06-01,Netherlands,Retail,Health,65,33752.15,341,65,4
+2026-06-01,Netherlands,Retail,Vitality Bundle,24,30547.24,107,24,2
+2026-06-01,Netherlands,IFA,Life,38,35217.19,176,38,1
+2026-06-01,Netherlands,IFA,Disability,23,14984.23,118,23,1
+2026-06-01,Netherlands,IFA,Income Protection,30,34816.79,142,30,2
+2026-06-01,Netherlands,IFA,Critical Illness,17,14555.78,85,17,1
+2026-06-01,Netherlands,IFA,Health,26,14050.06,117,26,1
+2026-06-01,Netherlands,IFA,Vitality Bundle,12,16149.89,55,12,0
+2026-06-01,Netherlands,Direct & Banca,Life,20,16781.04,102,20,1
+2026-06-01,Netherlands,Direct & Banca,Disability,11,6330.54,52,11,1
+2026-06-01,Netherlands,Direct & Banca,Income Protection,15,16143.26,74,15,1
+2026-06-01,Netherlands,Direct & Banca,Critical Illness,9,7156.91,40,9,1
+2026-06-01,Netherlands,Direct & Banca,Health,14,7437.01,63,14,0
+2026-06-01,Netherlands,Direct & Banca,Vitality Bundle,7,8913.33,31,7,0
+2026-06-01,Italy,Retail,Life,62,54968.54,280,62,2
+2026-06-01,Italy,Retail,Disability,32,18519.9,140,32,1
+2026-06-01,Italy,Retail,Income Protection,45,44598.22,200,45,3
+2026-06-01,Italy,Retail,Critical Illness,22,17405.17,107,22,2
+2026-06-01,Italy,Retail,Health,38,18950.33,170,38,1
+2026-06-01,Italy,Retail,Vitality Bundle,16,20946.74,71,16,1
+2026-06-01,Italy,IFA,Life,28,27010.56,136,28,1
+2026-06-01,Italy,IFA,Disability,15,9866.91,66,15,1
+2026-06-01,Italy,IFA,Income Protection,19,21856.67,87,19,1
+2026-06-01,Italy,IFA,Critical Illness,11,9321.7,50,11,1
+2026-06-01,Italy,IFA,Health,17,9644.69,76,17,1
+2026-06-01,Italy,IFA,Vitality Bundle,8,10371.86,42,8,0
+2026-06-01,Italy,Direct & Banca,Life,14,12534.46,72,14,1
+2026-06-01,Italy,Direct & Banca,Disability,8,4632.08,41,8,0
+2026-06-01,Italy,Direct & Banca,Income Protection,10,10783.75,45,10,1
+2026-06-01,Italy,Direct & Banca,Critical Illness,6,4644.7,27,6,0
+2026-06-01,Italy,Direct & Banca,Health,10,5322.29,50,10,1
+2026-06-01,Italy,Direct & Banca,Vitality Bundle,4,5190.96,20,4,0
+2026-07-01,Germany,Retail,Life,211,190479.39,926,211,14
+2026-07-01,Germany,Retail,Disability,117,72123.3,516,117,7
+2026-07-01,Germany,Retail,Income Protection,172,184367.66,751,172,7
+2026-07-01,Germany,Retail,Critical Illness,94,69073.59,456,94,4
+2026-07-01,Germany,Retail,Health,150,74794.68,733,150,10
+2026-07-01,Germany,Retail,Vitality Bundle,62,79827.57,299,62,4
+2026-07-01,Germany,IFA,Life,100,95591.24,514,100,6
+2026-07-01,Germany,IFA,Disability,52,34333.66,235,52,2
+2026-07-01,Germany,IFA,Income Protection,75,80344.75,334,75,4
+2026-07-01,Germany,IFA,Critical Illness,45,36134.37,207,45,2
+2026-07-01,Germany,IFA,Health,70,37920.13,347,70,3
+2026-07-01,Germany,IFA,Vitality Bundle,31,43903.11,151,31,2
+2026-07-01,Germany,Direct & Banca,Life,54,44679.48,276,54,2
+2026-07-01,Germany,Direct & Banca,Disability,31,18631.75,142,31,2
+2026-07-01,Germany,Direct & Banca,Income Protection,42,42205.43,217,42,1
+2026-07-01,Germany,Direct & Banca,Critical Illness,21,15536.81,93,21,1
+2026-07-01,Germany,Direct & Banca,Health,41,22316.09,192,41,2
+2026-07-01,Germany,Direct & Banca,Vitality Bundle,15,18434.41,70,15,1
+2026-07-01,France,Retail,Life,181,155437.08,791,181,9
+2026-07-01,France,Retail,Disability,103,59313.29,490,103,7
+2026-07-01,France,Retail,Income Protection,148,146828.98,730,148,8
+2026-07-01,France,Retail,Critical Illness,69,50430.72,360,69,2
+2026-07-01,France,Retail,Health,139,74699.96,632,139,9
+2026-07-01,France,Retail,Vitality Bundle,53,69297.18,247,53,3
+2026-07-01,France,IFA,Life,79,72840.41,350,79,3
+2026-07-01,France,IFA,Disability,50,32700.07,255,50,3
+2026-07-01,France,IFA,Income Protection,64,73316.74,333,64,2
+2026-07-01,France,IFA,Critical Illness,31,24263.81,155,31,2
+2026-07-01,France,IFA,Health,57,33596.4,251,57,2
+2026-07-01,France,IFA,Vitality Bundle,24,33341.87,115,24,1
+2026-07-01,France,Direct & Banca,Life,47,42390.17,241,47,2
+2026-07-01,France,Direct & Banca,Disability,26,14850.12,132,26,1
+2026-07-01,France,Direct & Banca,Income Protection,32,34248.39,150,32,2
+2026-07-01,France,Direct & Banca,Critical Illness,19,14477.57,89,19,1
+2026-07-01,France,Direct & Banca,Health,28,14950.58,129,28,2
+2026-07-01,France,Direct & Banca,Vitality Bundle,12,15394.14,55,12,1
+2026-07-01,Spain,Retail,Life,147,133660.65,658,147,5
+2026-07-01,Spain,Retail,Disability,73,44494.32,337,73,4
+2026-07-01,Spain,Retail,Income Protection,117,121645.26,615,117,8
+2026-07-01,Spain,Retail,Critical Illness,59,46861.82,291,59,3
+2026-07-01,Spain,Retail,Health,106,57641.2,498,106,4
+2026-07-01,Spain,Retail,Vitality Bundle,39,49845.87,192,39,1
+2026-07-01,Spain,IFA,Life,59,57941.57,287,59,3
+2026-07-01,Spain,IFA,Disability,33,22005.49,147,33,1
+2026-07-01,Spain,IFA,Income Protection,52,55895.09,235,52,2
+2026-07-01,Spain,IFA,Critical Illness,27,22503.03,139,27,1
+2026-07-01,Spain,IFA,Health,45,26046.22,222,45,3
+2026-07-01,Spain,IFA,Vitality Bundle,18,24899.83,81,18,1
+2026-07-01,Spain,Direct & Banca,Life,35,31623.58,167,35,2
+2026-07-01,Spain,Direct & Banca,Disability,19,11497.53,85,19,1
+2026-07-01,Spain,Direct & Banca,Income Protection,25,25559.49,130,25,1
+2026-07-01,Spain,Direct & Banca,Critical Illness,14,10346.58,64,14,1
+2026-07-01,Spain,Direct & Banca,Health,24,12641.69,114,24,1
+2026-07-01,Spain,Direct & Banca,Vitality Bundle,10,13113.08,48,10,0
+2026-07-01,Netherlands,Retail,Life,75,67878.95,335,75,4
+2026-07-01,Netherlands,Retail,Disability,43,24222.59,223,43,1
+2026-07-01,Netherlands,Retail,Income Protection,56,57246.9,289,56,3
+2026-07-01,Netherlands,Retail,Critical Illness,33,24461.48,165,33,1
+2026-07-01,Netherlands,Retail,Health,57,28495.7,263,57,2
+2026-07-01,Netherlands,Retail,Vitality Bundle,23,28669.79,119,23,1
+2026-07-01,Netherlands,IFA,Life,35,33172.79,168,35,2
+2026-07-01,Netherlands,IFA,Disability,21,13066.84,92,21,1
+2026-07-01,Netherlands,IFA,Income Protection,25,26934.23,114,25,1
+2026-07-01,Netherlands,IFA,Critical Illness,16,12615.8,76,16,0
+2026-07-01,Netherlands,IFA,Health,24,13035.95,115,24,1
+2026-07-01,Netherlands,IFA,Vitality Bundle,12,17090.24,56,12,1
+2026-07-01,Netherlands,Direct & Banca,Life,20,18224.62,98,20,1
+2026-07-01,Netherlands,Direct & Banca,Disability,11,6421.85,54,11,0
+2026-07-01,Netherlands,Direct & Banca,Income Protection,13,12870.35,68,13,1
+2026-07-01,Netherlands,Direct & Banca,Critical Illness,8,5903.21,37,8,0
+2026-07-01,Netherlands,Direct & Banca,Health,13,6845.22,59,13,0
+2026-07-01,Netherlands,Direct & Banca,Vitality Bundle,6,7532.35,29,6,0
+2026-07-01,Italy,Retail,Life,50,41988.04,229,50,3
+2026-07-01,Italy,Retail,Disability,30,18336.84,141,30,1
+2026-07-01,Italy,Retail,Income Protection,41,43639.8,214,41,1
+2026-07-01,Italy,Retail,Critical Illness,22,17076.29,96,22,1
+2026-07-01,Italy,Retail,Health,40,20999.35,189,40,2
+2026-07-01,Italy,Retail,Vitality Bundle,16,20131.98,75,16,1
+2026-07-01,Italy,IFA,Life,25,24233.9,119,25,1
+2026-07-01,Italy,IFA,Disability,13,8218.99,64,13,0
+2026-07-01,Italy,IFA,Income Protection,20,22063.65,96,20,1
+2026-07-01,Italy,IFA,Critical Illness,11,8890.45,50,11,0
+2026-07-01,Italy,IFA,Health,16,8709.02,79,16,1
+2026-07-01,Italy,IFA,Vitality Bundle,7,9915.26,34,7,0
+2026-07-01,Italy,Direct & Banca,Life,14,12371.18,72,14,1
+2026-07-01,Italy,Direct & Banca,Disability,7,4319.9,31,7,0
+2026-07-01,Italy,Direct & Banca,Income Protection,10,10604.85,45,10,1
+2026-07-01,Italy,Direct & Banca,Critical Illness,5,3717.33,23,5,0
+2026-07-01,Italy,Direct & Banca,Health,8,4034.99,37,8,0
+2026-07-01,Italy,Direct & Banca,Vitality Bundle,4,5288.86,20,4,0
+2026-08-01,Germany,Retail,Life,199,164787.4,884,199,9
+2026-08-01,Germany,Retail,Disability,112,68247.08,496,112,4
+2026-08-01,Germany,Retail,Income Protection,168,171839.46,782,168,6
+2026-08-01,Germany,Retail,Critical Illness,83,61552.34,408,83,4
+2026-08-01,Germany,Retail,Health,140,75549.76,698,140,5
+2026-08-01,Germany,Retail,Vitality Bundle,68,85811.84,314,68,4
+2026-08-01,Germany,IFA,Life,107,99912.13,514,107,7
+2026-08-01,Germany,IFA,Disability,50,30604.37,233,50,3
+2026-08-01,Germany,IFA,Income Protection,90,103355.86,470,90,3
+2026-08-01,Germany,IFA,Critical Illness,40,34049.64,177,40,1
+2026-08-01,Germany,IFA,Health,66,36848.83,314,66,4
+2026-08-01,Germany,IFA,Vitality Bundle,27,37282.04,133,27,1
+2026-08-01,Germany,Direct & Banca,Life,56,48423.34,271,56,3
+2026-08-01,Germany,Direct & Banca,Disability,27,16422.47,133,27,1
+2026-08-01,Germany,Direct & Banca,Income Protection,41,41691.3,186,41,2
+2026-08-01,Germany,Direct & Banca,Critical Illness,22,16137.49,100,22,1
+2026-08-01,Germany,Direct & Banca,Health,35,18749.22,169,35,2
+2026-08-01,Germany,Direct & Banca,Vitality Bundle,16,20870.42,72,16,1
+2026-08-01,France,Retail,Life,134,112448.22,704,134,8
+2026-08-01,France,Retail,Disability,89,50329.67,439,89,6
+2026-08-01,France,Retail,Income Protection,116,114240.42,526,116,7
+2026-08-01,France,Retail,Critical Illness,61,48226.04,317,61,3
+2026-08-01,France,Retail,Health,108,57060.59,512,108,5
+2026-08-01,France,Retail,Vitality Bundle,44,56442.75,207,44,2
+2026-08-01,France,IFA,Life,87,85090.47,457,87,4
+2026-08-01,France,IFA,Disability,46,30543.59,211,46,2
+2026-08-01,France,IFA,Income Protection,66,73744.56,298,66,4
+2026-08-01,France,IFA,Critical Illness,35,29841.71,158,35,2
+2026-08-01,France,IFA,Health,55,30274.97,287,55,2
+2026-08-01,France,IFA,Vitality Bundle,26,36230.12,133,26,2
+2026-08-01,France,Direct & Banca,Life,43,35886.74,203,43,2
+2026-08-01,France,Direct & Banca,Disability,26,14818.48,136,26,2
+2026-08-01,France,Direct & Banca,Income Protection,38,38127.6,172,38,2
+2026-08-01,France,Direct & Banca,Critical Illness,20,14607.87,104,20,1
+2026-08-01,France,Direct & Banca,Health,32,16397.84,167,32,2
+2026-08-01,France,Direct & Banca,Vitality Bundle,12,14814.52,55,12,1
+2026-08-01,Spain,Retail,Life,170,152416.68,741,170,9
+2026-08-01,Spain,Retail,Disability,92,54973.4,435,92,5
+2026-08-01,Spain,Retail,Income Protection,126,126983.7,569,126,7
+2026-08-01,Spain,Retail,Critical Illness,64,49682.6,304,64,3
+2026-08-01,Spain,Retail,Health,105,55049.73,471,105,5
+2026-08-01,Spain,Retail,Vitality Bundle,43,55326.67,193,43,1
+2026-08-01,Spain,IFA,Life,64,62470.68,306,64,3
+2026-08-01,Spain,IFA,Disability,37,23638.3,173,37,2
+2026-08-01,Spain,IFA,Income Protection,57,61908.46,271,57,3
+2026-08-01,Spain,IFA,Critical Illness,28,23973.02,134,28,2
+2026-08-01,Spain,IFA,Health,52,28164.58,267,52,3
+2026-08-01,Spain,IFA,Vitality Bundle,19,26384.0,85,19,1
+2026-08-01,Spain,Direct & Banca,Life,35,30368.87,159,35,2
+2026-08-01,Spain,Direct & Banca,Disability,20,12333.15,93,20,1
+2026-08-01,Spain,Direct & Banca,Income Protection,29,30084.36,151,29,1
+2026-08-01,Spain,Direct & Banca,Critical Illness,14,11162.45,69,14,1
+2026-08-01,Spain,Direct & Banca,Health,28,14038.96,131,28,1
+2026-08-01,Spain,Direct & Banca,Vitality Bundle,12,15708.25,60,12,1
+2026-08-01,Netherlands,Retail,Life,79,66134.26,387,79,5
+2026-08-01,Netherlands,Retail,Disability,43,25555.35,202,43,3
+2026-08-01,Netherlands,Retail,Income Protection,70,71921.39,320,70,4
+2026-08-01,Netherlands,Retail,Critical Illness,33,25091.95,158,33,2
+2026-08-01,Netherlands,Retail,Health,55,29647.75,271,55,3
+2026-08-01,Netherlands,Retail,Vitality Bundle,24,29966.72,120,24,1
+2026-08-01,Netherlands,IFA,Life,36,35375.08,160,36,2
+2026-08-01,Netherlands,IFA,Disability,20,13210.37,92,20,1
+2026-08-01,Netherlands,IFA,Income Protection,32,36335.07,151,32,1
+2026-08-01,Netherlands,IFA,Critical Illness,14,11137.76,65,14,1
+2026-08-01,Netherlands,IFA,Health,23,13007.53,116,23,1
+2026-08-01,Netherlands,IFA,Vitality Bundle,11,14400.41,48,11,0
+2026-08-01,Netherlands,Direct & Banca,Life,17,15214.11,85,17,1
+2026-08-01,Netherlands,Direct & Banca,Disability,11,6453.8,49,11,1
+2026-08-01,Netherlands,Direct & Banca,Income Protection,16,15730.13,71,16,0
+2026-08-01,Netherlands,Direct & Banca,Critical Illness,7,5274.75,31,7,0
+2026-08-01,Netherlands,Direct & Banca,Health,13,6499.5,67,13,0
+2026-08-01,Netherlands,Direct & Banca,Vitality Bundle,5,6146.0,26,5,0
+2026-08-01,Italy,Retail,Life,57,47949.52,266,57,2
+2026-08-01,Italy,Retail,Disability,29,16354.6,141,29,1
+2026-08-01,Italy,Retail,Income Protection,48,48570.93,234,48,3
+2026-08-01,Italy,Retail,Critical Illness,21,15485.28,95,21,1
+2026-08-01,Italy,Retail,Health,41,21858.1,200,41,1
+2026-08-01,Italy,Retail,Vitality Bundle,16,20089.08,78,16,1
+2026-08-01,Italy,IFA,Life,26,23779.14,115,26,1
+2026-08-01,Italy,IFA,Disability,16,10373.72,80,16,1
+2026-08-01,Italy,IFA,Income Protection,23,25085.3,112,23,1
+2026-08-01,Italy,IFA,Critical Illness,11,8761.06,48,11,0
+2026-08-01,Italy,IFA,Health,20,11548.77,95,20,1
+2026-08-01,Italy,IFA,Vitality Bundle,8,10833.86,42,8,0
+2026-08-01,Italy,Direct & Banca,Life,15,12774.97,66,15,0
+2026-08-01,Italy,Direct & Banca,Disability,8,4711.59,37,8,1
+2026-08-01,Italy,Direct & Banca,Income Protection,11,11161.66,51,11,1
+2026-08-01,Italy,Direct & Banca,Critical Illness,6,4352.74,27,6,0
+2026-08-01,Italy,Direct & Banca,Health,9,4631.0,46,9,0
+2026-08-01,Italy,Direct & Banca,Vitality Bundle,4,4928.85,19,4,0
+2026-09-01,Germany,Retail,Life,240,205006.19,1105,240,10
+2026-09-01,Germany,Retail,Disability,115,69564.53,553,115,5
+2026-09-01,Germany,Retail,Income Protection,205,207806.01,984,205,11
+2026-09-01,Germany,Retail,Critical Illness,79,61191.84,366,79,2
+2026-09-01,Germany,Retail,Health,153,82753.9,705,153,7
+2026-09-01,Germany,Retail,Vitality Bundle,71,91278.72,322,71,4
+2026-09-01,Germany,IFA,Life,105,100128.96,544,105,3
+2026-09-01,Germany,IFA,Disability,58,37591.84,267,58,3
+2026-09-01,Germany,IFA,Income Protection,89,102245.64,436,89,3
+2026-09-01,Germany,IFA,Critical Illness,42,35152.83,221,42,2
+2026-09-01,Germany,IFA,Health,75,41886.56,377,75,2
+2026-09-01,Germany,IFA,Vitality Bundle,28,39708.03,137,28,1
+2026-09-01,Germany,Direct & Banca,Life,54,46055.33,247,54,2
+2026-09-01,Germany,Direct & Banca,Disability,29,16875.59,144,29,2
+2026-09-01,Germany,Direct & Banca,Income Protection,47,47001.69,238,47,3
+2026-09-01,Germany,Direct & Banca,Critical Illness,21,16550.39,99,21,1
+2026-09-01,Germany,Direct & Banca,Health,37,19547.53,174,37,2
+2026-09-01,Germany,Direct & Banca,Vitality Bundle,16,19283.77,82,16,1
+2026-09-01,France,Retail,Life,142,124403.59,713,142,7
+2026-09-01,France,Retail,Disability,86,49176.45,396,86,6
+2026-09-01,France,Retail,Income Protection,131,135374.48,655,131,7
+2026-09-01,France,Retail,Critical Illness,59,46803.5,274,59,4
+2026-09-01,France,Retail,Health,95,51567.47,458,95,7
+2026-09-01,France,Retail,Vitality Bundle,43,55156.18,206,43,2
+2026-09-01,France,IFA,Life,88,85858.26,442,88,4
+2026-09-01,France,IFA,Disability,45,28527.37,237,45,2
+2026-09-01,France,IFA,Income Protection,65,72825.3,340,65,4
+2026-09-01,France,IFA,Critical Illness,37,30138.25,192,37,1
+2026-09-01,France,IFA,Health,55,30303.62,256,55,2
+2026-09-01,France,IFA,Vitality Bundle,25,35068.02,117,25,1
+2026-09-01,France,Direct & Banca,Life,43,36476.28,221,43,2
+2026-09-01,France,Direct & Banca,Disability,24,13529.08,118,24,1
+2026-09-01,France,Direct & Banca,Income Protection,41,43394.49,191,41,2
+2026-09-01,France,Direct & Banca,Critical Illness,18,13787.98,93,18,1
+2026-09-01,France,Direct & Banca,Health,28,14288.13,125,28,1
+2026-09-01,France,Direct & Banca,Vitality Bundle,12,15753.7,58,12,1
+2026-09-01,Spain,Retail,Life,159,132323.58,732,159,8
+2026-09-01,Spain,Retail,Disability,82,47806.48,423,82,5
+2026-09-01,Spain,Retail,Income Protection,125,130032.04,578,125,4
+2026-09-01,Spain,Retail,Critical Illness,61,47728.38,271,61,3
+2026-09-01,Spain,Retail,Health,105,56989.21,474,105,5
+2026-09-01,Spain,Retail,Vitality Bundle,45,54956.37,232,45,2
+2026-09-01,Spain,IFA,Life,64,61874.79,324,64,3
+2026-09-01,Spain,IFA,Disability,39,24245.15,189,39,2
+2026-09-01,Spain,IFA,Income Protection,59,63945.87,266,59,2
+2026-09-01,Spain,IFA,Critical Illness,27,22019.43,118,27,2
+2026-09-01,Spain,IFA,Health,47,27412.0,213,47,2
+2026-09-01,Spain,IFA,Vitality Bundle,20,26788.44,98,20,1
+2026-09-01,Spain,Direct & Banca,Life,38,33649.46,198,38,2
+2026-09-01,Spain,Direct & Banca,Disability,22,13445.6,106,22,1
+2026-09-01,Spain,Direct & Banca,Income Protection,30,32162.27,135,30,1
+2026-09-01,Spain,Direct & Banca,Critical Illness,15,11622.05,65,15,1
+2026-09-01,Spain,Direct & Banca,Health,25,13101.93,109,25,1
+2026-09-01,Spain,Direct & Banca,Vitality Bundle,11,13391.92,53,11,1
+2026-09-01,Netherlands,Retail,Life,72,60882.36,379,72,3
+2026-09-01,Netherlands,Retail,Disability,41,24489.76,205,41,2
+2026-09-01,Netherlands,Retail,Income Protection,73,73923.16,332,73,3
+2026-09-01,Netherlands,Retail,Critical Illness,30,23916.92,147,30,1
+2026-09-01,Netherlands,Retail,Health,50,24999.49,248,50,2
+2026-09-01,Netherlands,Retail,Vitality Bundle,24,31042.97,125,24,1
+2026-09-01,Netherlands,IFA,Life,33,29996.43,146,33,2
+2026-09-01,Netherlands,IFA,Disability,19,12172.79,96,19,1
+2026-09-01,Netherlands,IFA,Income Protection,32,37058.58,168,32,2
+2026-09-01,Netherlands,IFA,Critical Illness,14,11821.47,72,14,1
+2026-09-01,Netherlands,IFA,Health,24,13128.16,108,24,1
+2026-09-01,Netherlands,IFA,Vitality Bundle,12,17108.69,52,12,1
+2026-09-01,Netherlands,Direct & Banca,Life,20,16643.76,102,20,1
+2026-09-01,Netherlands,Direct & Banca,Disability,11,6289.9,54,11,0
+2026-09-01,Netherlands,Direct & Banca,Income Protection,16,17266.07,80,16,1
+2026-09-01,Netherlands,Direct & Banca,Critical Illness,8,5890.97,38,8,0
+2026-09-01,Netherlands,Direct & Banca,Health,13,6458.0,59,13,1
+2026-09-01,Netherlands,Direct & Banca,Vitality Bundle,6,7914.1,27,6,0
+2026-09-01,Italy,Retail,Life,53,45974.75,245,53,2
+2026-09-01,Italy,Retail,Disability,32,19354.47,148,32,2
+2026-09-01,Italy,Retail,Income Protection,49,50289.66,242,49,2
+2026-09-01,Italy,Retail,Critical Illness,24,18633.35,114,24,1
+2026-09-01,Italy,Retail,Health,40,21676.07,187,40,1
+2026-09-01,Italy,Retail,Vitality Bundle,16,19561.25,71,16,1
+2026-09-01,Italy,IFA,Life,25,24403.08,117,25,2
+2026-09-01,Italy,IFA,Disability,14,8965.9,72,14,0
+2026-09-01,Italy,IFA,Income Protection,22,24109.56,103,22,1
+2026-09-01,Italy,IFA,Critical Illness,11,8962.08,53,11,1
+2026-09-01,Italy,IFA,Health,19,10475.15,93,19,1
+2026-09-01,Italy,IFA,Vitality Bundle,7,9664.06,34,7,0
+2026-09-01,Italy,Direct & Banca,Life,15,13066.69,70,15,1
+2026-09-01,Italy,Direct & Banca,Disability,8,4530.45,41,8,0
+2026-09-01,Italy,Direct & Banca,Income Protection,11,10986.3,54,11,0
+2026-09-01,Italy,Direct & Banca,Critical Illness,6,4643.69,30,6,0
+2026-09-01,Italy,Direct & Banca,Health,11,6005.09,50,11,1
+2026-09-01,Italy,Direct & Banca,Vitality Bundle,5,5990.38,25,5,0
+2026-10-01,Germany,Retail,Life,233,200760.16,1130,233,12
+2026-10-01,Germany,Retail,Disability,125,73543.53,594,125,8
+2026-10-01,Germany,Retail,Income Protection,176,179421.98,884,176,11
+2026-10-01,Germany,Retail,Critical Illness,88,66985.84,397,88,5
+2026-10-01,Germany,Retail,Health,161,83396.85,726,161,7
+2026-10-01,Germany,Retail,Vitality Bundle,62,80230.26,285,62,2
+2026-10-01,Germany,IFA,Life,98,92618.98,478,98,5
+2026-10-01,Germany,IFA,Disability,51,33937.98,268,51,3
+2026-10-01,Germany,IFA,Income Protection,91,99606.95,440,91,5
+2026-10-01,Germany,IFA,Critical Illness,39,32903.17,184,39,2
+2026-10-01,Germany,IFA,Health,63,36390.42,278,63,2
+2026-10-01,Germany,IFA,Vitality Bundle,33,44144.12,153,33,2
+2026-10-01,Germany,Direct & Banca,Life,54,48703.91,236,54,2
+2026-10-01,Germany,Direct & Banca,Disability,29,17169.01,147,29,1
+2026-10-01,Germany,Direct & Banca,Income Protection,46,47150.37,204,46,2
+2026-10-01,Germany,Direct & Banca,Critical Illness,20,15280.42,105,20,1
+2026-10-01,Germany,Direct & Banca,Health,37,18637.2,192,37,3
+2026-10-01,Germany,Direct & Banca,Vitality Bundle,15,18395.44,69,15,0
+2026-10-01,France,Retail,Life,136,118539.27,691,136,9
+2026-10-01,France,Retail,Disability,81,46150.97,417,81,4
+2026-10-01,France,Retail,Income Protection,127,125168.99,557,127,8
+2026-10-01,France,Retail,Critical Illness,55,40569.73,265,55,3
+2026-10-01,France,Retail,Health,104,54640.86,457,104,6
+2026-10-01,France,Retail,Vitality Bundle,45,57748.02,224,45,1
+2026-10-01,France,IFA,Life,78,70093.19,379,78,5
+2026-10-01,France,IFA,Disability,46,30513.85,204,46,2
+2026-10-01,France,IFA,Income Protection,73,83132.12,362,73,5
+2026-10-01,France,IFA,Critical Illness,33,27628.99,151,33,1
+2026-10-01,France,IFA,Health,60,34740.52,305,60,2
+2026-10-01,France,IFA,Vitality Bundle,27,37598.58,130,27,2
+2026-10-01,France,Direct & Banca,Life,42,36790.72,204,42,3
+2026-10-01,France,Direct & Banca,Disability,23,14072.82,114,23,1
+2026-10-01,France,Direct & Banca,Income Protection,37,39696.51,170,37,2
+2026-10-01,France,Direct & Banca,Critical Illness,17,12911.59,74,17,1
+2026-10-01,France,Direct & Banca,Health,34,16931.31,175,34,2
+2026-10-01,France,Direct & Banca,Vitality Bundle,13,16299.63,65,13,1
+2026-10-01,Spain,Retail,Life,155,129094.54,712,155,9
+2026-10-01,Spain,Retail,Disability,84,50778.97,375,84,4
+2026-10-01,Spain,Retail,Income Protection,120,118837.48,529,120,5
+2026-10-01,Spain,Retail,Critical Illness,65,49324.71,337,65,3
+2026-10-01,Spain,Retail,Health,103,55970.3,527,103,6
+2026-10-01,Spain,Retail,Vitality Bundle,50,60924.71,262,50,2
+2026-10-01,Spain,IFA,Life,67,63171.36,326,67,2
+2026-10-01,Spain,IFA,Disability,41,26588.62,209,41,2
+2026-10-01,Spain,IFA,Income Protection,57,60454.86,263,57,2
+2026-10-01,Spain,IFA,Critical Illness,29,24604.18,130,29,2
+2026-10-01,Spain,IFA,Health,51,29778.7,248,51,2
+2026-10-01,Spain,IFA,Vitality Bundle,19,24574.5,86,19,1
+2026-10-01,Spain,Direct & Banca,Life,41,35222.86,205,41,1
+2026-10-01,Spain,Direct & Banca,Disability,20,12377.36,98,20,1
+2026-10-01,Spain,Direct & Banca,Income Protection,33,33040.21,146,33,2
+2026-10-01,Spain,Direct & Banca,Critical Illness,16,11756.15,81,16,1
+2026-10-01,Spain,Direct & Banca,Health,24,12264.27,113,24,1
+2026-10-01,Spain,Direct & Banca,Vitality Bundle,11,13917.8,48,11,0
+2026-10-01,Netherlands,Retail,Life,75,64314.16,381,75,3
+2026-10-01,Netherlands,Retail,Disability,42,24505.4,202,42,1
+2026-10-01,Netherlands,Retail,Income Protection,72,75271.99,352,72,2
+2026-10-01,Netherlands,Retail,Critical Illness,30,22347.5,140,30,2
+2026-10-01,Netherlands,Retail,Health,51,26615.95,222,51,3
+2026-10-01,Netherlands,Retail,Vitality Bundle,22,28992.44,103,22,2
+2026-10-01,Netherlands,IFA,Life,37,35383.67,162,37,2
+2026-10-01,Netherlands,IFA,Disability,19,12270.67,84,19,1
+2026-10-01,Netherlands,IFA,Income Protection,33,36643.6,162,33,2
+2026-10-01,Netherlands,IFA,Critical Illness,15,12167.18,70,15,1
+2026-10-01,Netherlands,IFA,Health,25,14725.69,125,25,1
+2026-10-01,Netherlands,IFA,Vitality Bundle,12,16017.46,55,12,1
+2026-10-01,Netherlands,Direct & Banca,Life,20,16634.27,98,20,1
+2026-10-01,Netherlands,Direct & Banca,Disability,10,5725.59,52,10,1
+2026-10-01,Netherlands,Direct & Banca,Income Protection,17,18290.73,77,17,1
+2026-10-01,Netherlands,Direct & Banca,Critical Illness,7,5396.4,32,7,0
+2026-10-01,Netherlands,Direct & Banca,Health,15,7915.48,74,15,0
+2026-10-01,Netherlands,Direct & Banca,Vitality Bundle,6,7432.44,30,6,0
+2026-10-01,Italy,Retail,Life,63,55714.4,315,63,4
+2026-10-01,Italy,Retail,Disability,34,20276.77,166,34,1
+2026-10-01,Italy,Retail,Income Protection,49,47977.0,218,49,2
+2026-10-01,Italy,Retail,Critical Illness,22,16944.66,112,22,1
+2026-10-01,Italy,Retail,Health,38,19943.04,170,38,3
+2026-10-01,Italy,Retail,Vitality Bundle,17,20516.43,78,17,1
+2026-10-01,Italy,IFA,Life,27,24722.1,137,27,1
+2026-10-01,Italy,IFA,Disability,14,8874.65,65,14,1
+2026-10-01,Italy,IFA,Income Protection,24,25576.34,105,24,1
+2026-10-01,Italy,IFA,Critical Illness,10,8159.88,48,10,1
+2026-10-01,Italy,IFA,Health,19,11011.43,86,19,1
+2026-10-01,Italy,IFA,Vitality Bundle,8,11271.82,36,8,1
+2026-10-01,Italy,Direct & Banca,Life,14,11757.11,64,14,1
+2026-10-01,Italy,Direct & Banca,Disability,8,4698.1,39,8,0
+2026-10-01,Italy,Direct & Banca,Income Protection,11,10918.33,53,11,0
+2026-10-01,Italy,Direct & Banca,Critical Illness,5,3614.88,24,5,0
+2026-10-01,Italy,Direct & Banca,Health,10,5421.36,44,10,1
+2026-10-01,Italy,Direct & Banca,Vitality Bundle,4,5034.73,19,4,0
